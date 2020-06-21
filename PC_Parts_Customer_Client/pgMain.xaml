@@ -1,0 +1,41 @@
+﻿<Page
+    x:Class="PC_Parts_Customer_Client.pgMain"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}" Loaded="Page_Loaded">
+
+    <Grid Background="#FFB2C7E8" FocusVisualPrimaryBrush="#FFDDE4EE">
+        <Rectangle HorizontalAlignment="Center" Height="669" Margin="0,175,0,0" Stroke="Black" 
+                   VerticalAlignment="Top" Width="930" Fill="#FF618295"/>
+        <Border BorderThickness="1" BorderBrush="Black" Margin="285,175,285,156"/>
+        
+        <!--Title-->
+        <TextBlock x:Name="tbTitle" HorizontalAlignment="Center" Margin="0,201,0,0" Text="PC Parts" 
+                   TextWrapping="Wrap" VerticalAlignment="Top" FontWeight="Bold" FontSize="36" Foreground="Black"/>
+        
+        <!--List-->
+        <ListView x:Name="lvCategoryList" 
+                  Grid.Row="1" 
+                  Width="350" 
+                  Height="500" 
+                  Margin="428,285,722,214" 
+                  Background="#FFB4C4DE" 
+                  RequestedTheme="Default" 
+                  DoubleTapped="lvCategoryList_DoubleTapped" 
+                  FontSize="16" 
+                  Foreground="Black" FocusVisualPrimaryBrush="Black" >
+            <NavigationViewItemHeader Content="- Product Categories -" Foreground="Black" Background="#FF6E8BBB" 
+                                      FontWeight="Bold" FontSize="42" HorizontalAlignment="Center"/>
+        </ListView>
+        <Border BorderThickness="1" BorderBrush="Black" Margin="428,286,722,214"/>
+
+        <!--Buttons-->
+        <Button x:Name="btnViewCategory" Content="View Category" Margin="879,0,0,0" FontSize="28" 
+                Foreground="Black" Click="btnViewCategory_Click"/>
+        <Button x:Name="btnExit" Content="Exit" Margin="1114,760,0,0" FontSize="28" Foreground="Black" 
+                VerticalAlignment="Top" Click="btnExit_Click"/>
+    </Grid>
+</Page>

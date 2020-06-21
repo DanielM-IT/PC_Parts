@@ -1,0 +1,60 @@
+﻿<Page
+    x:Class="PC_Parts_Customer_Client.pgOrder"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid Background="#FFB2C7E8" FocusVisualPrimaryBrush="#FFDDE4EE">
+        <Rectangle HorizontalAlignment="Left" Height="761" Margin="419,130,0,0" Stroke="Black" VerticalAlignment="Top" Width="667" Fill="#FF618295"/>
+
+        <!--Dynamic Labels-->
+        <TextBlock x:Name="tbDisplayedProductId" HorizontalAlignment="Left" Margin="688,346,0,0" Text="TextBlock" 
+                   TextWrapping="Wrap" VerticalAlignment="Top" FontSize="26" Foreground="Black"/>
+        <TextBlock x:Name="tbDisplayedPrice" HorizontalAlignment="Left" Margin="620,410,0,0" Text="TextBlock" 
+                   TextWrapping="Wrap" VerticalAlignment="Top" FontSize="26" Foreground="Black"/>
+        <TextBlock x:Name="tbDisplayedQuantity" HorizontalAlignment="Left" Margin="897,471,0,0" Text="TextBlock" 
+                   TextWrapping="Wrap" VerticalAlignment="Top" FontSize="26" RenderTransformOrigin="0.634,0.715" Foreground="Black"/>
+        <TextBlock x:Name="tbDisplayedOrderTotal" HorizontalAlignment="Left" Margin="702,727,0,0" Text="0.00" 
+                   TextWrapping="Wrap" VerticalAlignment="Top" FontSize="26" Width="230" Foreground="Black"/>
+        <Border BorderThickness="1" BorderBrush="Black" Margin="419,130,414,109">
+            <TextBlock x:Name="tbDisplayedProductName" HorizontalAlignment="Center" Text="TextBlock" Foreground="Black" 
+                       TextWrapping="Wrap" VerticalAlignment="Top" FontSize="26" Width="468" Margin="0,85,0,0" Height="118"/>
+        </Border>
+
+        <!--Static Labels-->
+        <TextBlock x:Name="tbTitle" TextAlignment="Center" HorizontalAlignment="Center" Margin="0,152,0,0" Text="Place Order" 
+                   TextWrapping="Wrap" VerticalAlignment="Top" FontWeight="Bold" FontSize="30" Width="210" Foreground="Black"/>
+        <TextBlock x:Name="tbProductId" HorizontalAlignment="Left" Margin="511,346,0,0" Text="Product ID:" 
+                   TextWrapping="Wrap" VerticalAlignment="Top" FontSize="26" FontWeight="Bold" Foreground="Black"/>
+        <TextBlock x:Name="tbPrice" HorizontalAlignment="Left" Margin="511,410,0,0" Text="Price:" 
+                   TextWrapping="Wrap" VerticalAlignment="Top" FontSize="26" FontWeight="Bold" Foreground="Black"/>
+        <TextBlock x:Name="tbQuantity" HorizontalAlignment="Left" Margin="511,471,0,0" Text="Qty:" 
+                   TextWrapping="Wrap" VerticalAlignment="Top" FontSize="26" FontWeight="Bold" Foreground="Black"/>
+        <TextBlock x:Name="tbCustomerEmail" HorizontalAlignment="Left" Margin="509,625,0,0" Text="Customer Email:" 
+                   TextWrapping="Wrap" VerticalAlignment="Top" FontSize="26" FontWeight="Bold" Foreground="Black"/>
+        <TextBlock x:Name="tbCustomerName" HorizontalAlignment="Left" Margin="509,534,0,0" Text="Customer Name:" 
+                   TextWrapping="Wrap" VerticalAlignment="Top" FontSize="26" FontWeight="Bold" Foreground="Black"/>
+        <TextBlock x:Name="tbQuantityAvailable" HorizontalAlignment="Left" Text="Qty Available:" Foreground="Black" 
+                   TextWrapping="Wrap" VerticalAlignment="Top" FontSize="26" FontWeight="Bold" Margin="710,471,0,0"/>
+        <TextBlock x:Name="tbOrderTotal" HorizontalAlignment="Left" Margin="511,727,0,0" Text="Order Total:   $" 
+            TextWrapping="Wrap" VerticalAlignment="Top" FontSize="26" FontWeight="Bold" Foreground="Black"/>
+
+        <!--Text Fields-->
+        <TextBox x:Name="txtQuantity" HorizontalAlignment="Left" Margin="578,463,0,0" Text="" Foreground="Black" 
+                 TextWrapping="Wrap" VerticalAlignment="Top" FontSize="26" Width="93" TextChanged="txtQuantity_TextChanged" 
+                 BeforeTextChanging="txtQuantity_BeforeTextChanging"/>
+        <TextBox x:Name="txtCustomerName" HorizontalAlignment="Left" Margin="509,569,0,0" Text="" 
+                 TextWrapping="Wrap" VerticalAlignment="Top" FontSize="26" Width="495" Foreground="Black"/>
+        <TextBox x:Name="txtCustomerEmail" HorizontalAlignment="Left" Margin="509,665,0,0" Text="" 
+                 TextWrapping="Wrap" VerticalAlignment="Top" FontSize="26" Width="495" Foreground="Black"/>
+
+        <!--Buttons-->
+        <Button x:Name="btnPlaceOrder" Content="Place Order" Margin="675,782,0,0" FontSize="28" 
+                VerticalAlignment="Top" Click="btnPlaceOrder_Click" Foreground="Black"/>
+        <Button x:Name="btnCancel" Content="Cancel" Margin="953,818,0,0" FontSize="28" 
+                VerticalAlignment="Top" Click="btnCancel_Click" Foreground="Black"/>
+    </Grid>
+</Page>

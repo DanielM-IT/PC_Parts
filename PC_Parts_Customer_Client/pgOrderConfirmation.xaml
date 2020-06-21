@@ -1,0 +1,27 @@
+﻿<Page
+    x:Class="PC_Parts_Customer_Client.pgOrderConfirmation"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid Background="#FFB2C7E8" FocusVisualPrimaryBrush="#FFDDE4EE">
+        <Rectangle HorizontalAlignment="Left" Height="761" Margin="419,130,0,0" Stroke="Black" VerticalAlignment="Top" Width="667" Fill="#FF618295"/>
+        <Border BorderThickness="1" BorderBrush="Black" Margin="419,130,414,109">
+            <!--Title-->
+            <TextBlock x:Name="tbDisplayedProductName" HorizontalAlignment="Left" Foreground="Black" TextWrapping="Wrap" VerticalAlignment="Top" 
+                       Text="Thank you for your order. It has been sent for processing and will be dispatched within the next few days." 
+                       FontSize="26" Width="440" Margin="130,124,0,0" Height="488"/>
+        </Border>
+        
+        <!--Text Body-->
+        <TextBlock x:Name="tbTitle" TextAlignment="Center" HorizontalAlignment="Center" Margin="0,152,0,0" Foreground="Black"
+                   Text="Confirmation" TextWrapping="Wrap" VerticalAlignment="Top" FontWeight="Bold" FontSize="30" Width="210"/>
+        
+        <!--Buttons-->
+        <Button x:Name="btnReturnHome" Content="Return Home" Margin="660,792,0,0" FontSize="28" 
+                VerticalAlignment="Top" Click="btnReturnHome_Click" Foreground="Black"/>
+    </Grid>
+</Page>
