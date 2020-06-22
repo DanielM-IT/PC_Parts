@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PriInfo>
+	<ResourceMap name="AutoGenerateForm.Uwp" version="1.0" primary="true">
+		<Qualifiers/>
+		<ResourceMapSubtree name="Files">
+			<ResourceMapSubtree name="AutoGenerateForm.Uwp">
+				<NamedResource name="AutoGenerateForm.Uwp.xr.xml" uri="ms-resource://AutoGenerateForm.Uwp/Files/AutoGenerateForm.Uwp/AutoGenerateForm.Uwp.xr.xml">
+					<Candidate type="Path">
+						<Value>AutoGenerateForm.Uwp\AutoGenerateForm.Uwp.xr.xml</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="AutoGenerator.xbf" uri="ms-resource://AutoGenerateForm.Uwp/Files/AutoGenerateForm.Uwp/AutoGenerator.xbf">
+					<Candidate type="EmbeddedData">
+						<Base64Value>[Embedded Binary Data]</Base64Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ValidationSummary.xbf" uri="ms-resource://AutoGenerateForm.Uwp/Files/AutoGenerateForm.Uwp/ValidationSummary.xbf">
+					<Candidate type="EmbeddedData">
+						<Base64Value>[Embedded Binary Data]</Base64Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+	</ResourceMap>
+</PriInfo>

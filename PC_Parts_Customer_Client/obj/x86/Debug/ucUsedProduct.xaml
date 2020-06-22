@@ -1,0 +1,19 @@
+﻿<UserControl
+    x:Class="PC_Parts_Customer_Client.ucUsedProduct"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d" Height="113" Width="405">
+
+    <Grid Margin="0,0,32,50">
+        <!--Static Text-->
+        <TextBlock x:ConnectionId='2' x:Name="tbCondition" HorizontalAlignment="Left" Text="Condition:" TextWrapping="Wrap" VerticalAlignment="Top" 
+                   FontSize="26" FontWeight="Bold" Foreground="Black"/>
+        
+        <!--Dynamic Text-->
+        <TextBlock x:ConnectionId='3' x:Name="tbDisplayCondition" HorizontalAlignment="Left" Margin="213,0,0,0" Text="TextBlock" TextWrapping="Wrap" 
+                   VerticalAlignment="Top" FontSize="26" FontWeight="Normal" Foreground="Black"/>
+    </Grid>
+</UserControl>
+

@@ -1,0 +1,260 @@
+C:\Users\Daniel\Documents\Visual_Studio_Projects\PC_Parts\PC_Parts_Selfhost\bin\Debug\PC_Parts_Selfhost.exe.config
+C:\Users\Daniel\Documents\Visual_Studio_Projects\PC_Parts\PC_Parts_Selfhost\bin\Debug\PC_Parts_Selfhost.exe
+C:\Users\Daniel\Documents\Visual_Studio_Projects\PC_Parts\PC_Parts_Selfhost\bin\Debug\PC_Parts_Selfhost.pdb
+C:\Users\Daniel\Documents\Visual_Studio_Projects\PC_Parts\PC_Parts_Selfhost\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Daniel\Documents\Visual_Studio_Projects\PC_Parts\PC_Parts_Selfhost\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Daniel\Documents\Visual_Studio_Projects\PC_Parts\PC_Parts_Selfhost\bin\Debug\System.Web.Http.dll
+C:\Users\Daniel\Documents\Visual_Studio_Projects\PC_Parts\PC_Parts_Selfhost\bin\Debug\System.Web.Http.SelfHost.dll
+C:\Users\Daniel\Documents\Visual_Studio_Projects\PC_Parts\PC_Parts_Selfhost\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Daniel\Documents\Visual_Studio_Projects\PC_Parts\PC_Parts_Selfhost\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Daniel\Documents\Visual_Studio_Projects\PC_Parts\PC_Parts_Selfhost\bin\Debug\System.Web.Http.xml
+C:\Users\Daniel\Documents\Visual_Studio_Projects\PC_Parts\PC_Parts_Selfhost\bin\Debug\System.Web.Http.SelfHost.xml
+C:\Users\Daniel\Documents\Visual_Studio_Projects\PC_Parts\PC_Parts_Selfhost\obj\Debug\PC_Parts_Selfhost.csprojAssemblyReference.cache
+C:\Users\Daniel\Documents\Visual_Studio_Projects\PC_Parts\PC_Parts_Selfhost\obj\Debug\PC_Parts_Selfhost.csproj.CopyComplete
+C:\Users\Daniel\Documents\Visual_Studio_Projects\PC_Parts\PC_Parts_Selfhost\obj\Debug\PC_Parts_Selfhost.exe
+C:\Users\Daniel\Documents\Visual_Studio_Projects\PC_Parts\PC_Parts_Selfhost\obj\Debug\PC_Parts_Selfhost.pdb
+C:\Users\Daniel\Documents\Visual_Studio_Projects\PC_Parts\PC_Parts_Selfhost\bin\Debug\PC_Parts.exe
+C:\Users\Daniel\Documents\Visual_Studio_Projects\PC_Parts\PC_Parts_Selfhost\bin\Debug\PC_Parts.pdb
+C:\Users\Daniel\Documents\Visual_Studio_Projects\PC_Parts\PC_Parts_Selfhost\bin\Debug\PC_Parts.exe.config
+C:\Users\7ebed\OneDrive\Desktop\PC_Parts\PC_Parts_Selfhost\bin\Debug\PC_Parts_Selfhost.exe.config
+C:\Users\7ebed\OneDrive\Desktop\PC_Parts\PC_Parts_Selfhost\bin\Debug\PC_Parts_Selfhost.exe
+C:\Users\7ebed\OneDrive\Desktop\PC_Parts\PC_Parts_Selfhost\bin\Debug\PC_Parts_Selfhost.pdb
+C:\Users\7ebed\OneDrive\Desktop\PC_Parts\PC_Parts_Selfhost\bin\Debug\Newtonsoft.Json.dll
+C:\Users\7ebed\OneDrive\Desktop\PC_Parts\PC_Parts_Selfhost\bin\Debug\PC_Parts.exe
+C:\Users\7ebed\OneDrive\Desktop\PC_Parts\PC_Parts_Selfhost\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\7ebed\OneDrive\Desktop\PC_Parts\PC_Parts_Selfhost\bin\Debug\System.Web.Http.dll
+C:\Users\7ebed\OneDrive\Desktop\PC_Parts\PC_Parts_Selfhost\bin\Debug\System.Web.Http.SelfHost.dll
+C:\Users\7ebed\OneDrive\Desktop\PC_Parts\PC_Parts_Selfhost\bin\Debug\PC_Parts.pdb
+C:\Users\7ebed\OneDrive\Desktop\PC_Parts\PC_Parts_Selfhost\bin\Debug\PC_Parts.exe.config
+C:\Users\7ebed\OneDrive\Desktop\PC_Parts\PC_Parts_Selfhost\bin\Debug\Newtonsoft.Json.xml
+C:\Users\7ebed\OneDrive\Desktop\PC_Parts\PC_Parts_Selfhost\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\7ebed\OneDrive\Desktop\PC_Parts\PC_Parts_Selfhost\bin\Debug\System.Web.Http.xml
+C:\Users\7ebed\OneDrive\Desktop\PC_Parts\PC_Parts_Selfhost\bin\Debug\System.Web.Http.SelfHost.xml
+C:\Users\7ebed\OneDrive\Desktop\PC_Parts\PC_Parts_Selfhost\obj\Debug\PC_Parts_Selfhost.csprojAssemblyReference.cache
+C:\Users\7ebed\OneDrive\Desktop\PC_Parts\PC_Parts_Selfhost\obj\Debug\PC_Parts_Selfhost.csproj.CopyComplete
+C:\Users\7ebed\OneDrive\Desktop\PC_Parts\PC_Parts_Selfhost\obj\Debug\PC_Parts_Selfhost.exe
+C:\Users\7ebed\OneDrive\Desktop\PC_Parts\PC_Parts_Selfhost\obj\Debug\PC_Parts_Selfhost.pdb
+C:\Users\7ebed\Documents\PC_Parts\PC_Parts_Selfhost\bin\Debug\PC_Parts_Selfhost.exe.config
+C:\Users\7ebed\Documents\PC_Parts\PC_Parts_Selfhost\bin\Debug\PC_Parts_Selfhost.exe
+C:\Users\7ebed\Documents\PC_Parts\PC_Parts_Selfhost\bin\Debug\PC_Parts_Selfhost.pdb
+C:\Users\7ebed\Documents\PC_Parts\PC_Parts_Selfhost\bin\Debug\Newtonsoft.Json.dll
+C:\Users\7ebed\Documents\PC_Parts\PC_Parts_Selfhost\bin\Debug\PC_Parts.exe
+C:\Users\7ebed\Documents\PC_Parts\PC_Parts_Selfhost\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\7ebed\Documents\PC_Parts\PC_Parts_Selfhost\bin\Debug\System.Web.Http.dll
+C:\Users\7ebed\Documents\PC_Parts\PC_Parts_Selfhost\bin\Debug\System.Web.Http.SelfHost.dll
+C:\Users\7ebed\Documents\PC_Parts\PC_Parts_Selfhost\bin\Debug\PC_Parts.pdb
+C:\Users\7ebed\Documents\PC_Parts\PC_Parts_Selfhost\bin\Debug\PC_Parts.exe.config
+C:\Users\7ebed\Documents\PC_Parts\PC_Parts_Selfhost\bin\Debug\Newtonsoft.Json.xml
+C:\Users\7ebed\Documents\PC_Parts\PC_Parts_Selfhost\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\7ebed\Documents\PC_Parts\PC_Parts_Selfhost\bin\Debug\System.Web.Http.xml
+C:\Users\7ebed\Documents\PC_Parts\PC_Parts_Selfhost\bin\Debug\System.Web.Http.SelfHost.xml
+C:\Users\7ebed\Documents\PC_Parts\PC_Parts_Selfhost\obj\Debug\PC_Parts_Selfhost.csprojAssemblyReference.cache
+C:\Users\7ebed\Documents\PC_Parts\PC_Parts_Selfhost\obj\Debug\PC_Parts_Selfhost.csproj.CopyComplete
+C:\Users\7ebed\Documents\PC_Parts\PC_Parts_Selfhost\obj\Debug\PC_Parts_Selfhost.exe
+C:\Users\7ebed\Documents\PC_Parts\PC_Parts_Selfhost\obj\Debug\PC_Parts_Selfhost.pdb
+I:\Temporary Work Files\PC_Parts\PC_Parts_Selfhost\bin\Debug\PC_Parts_Selfhost.exe.config
+I:\Temporary Work Files\PC_Parts\PC_Parts_Selfhost\bin\Debug\PC_Parts_Selfhost.exe
+I:\Temporary Work Files\PC_Parts\PC_Parts_Selfhost\bin\Debug\PC_Parts_Selfhost.pdb
+I:\Temporary Work Files\PC_Parts\PC_Parts_Selfhost\bin\Debug\Newtonsoft.Json.dll
+I:\Temporary Work Files\PC_Parts\PC_Parts_Selfhost\bin\Debug\PC_Parts.exe
+I:\Temporary Work Files\PC_Parts\PC_Parts_Selfhost\bin\Debug\System.Net.Http.Formatting.dll
+I:\Temporary Work Files\PC_Parts\PC_Parts_Selfhost\bin\Debug\System.Web.Http.dll
+I:\Temporary Work Files\PC_Parts\PC_Parts_Selfhost\bin\Debug\System.Web.Http.SelfHost.dll
+I:\Temporary Work Files\PC_Parts\PC_Parts_Selfhost\bin\Debug\PC_Parts.pdb
+I:\Temporary Work Files\PC_Parts\PC_Parts_Selfhost\bin\Debug\PC_Parts.exe.config
+I:\Temporary Work Files\PC_Parts\PC_Parts_Selfhost\bin\Debug\Newtonsoft.Json.xml
+I:\Temporary Work Files\PC_Parts\PC_Parts_Selfhost\bin\Debug\System.Net.Http.Formatting.xml
+I:\Temporary Work Files\PC_Parts\PC_Parts_Selfhost\bin\Debug\System.Web.Http.xml
+I:\Temporary Work Files\PC_Parts\PC_Parts_Selfhost\bin\Debug\System.Web.Http.SelfHost.xml
+I:\Temporary Work Files\PC_Parts\PC_Parts_Selfhost\obj\Debug\PC_Parts_Selfhost.csprojAssemblyReference.cache
+I:\Temporary Work Files\PC_Parts\PC_Parts_Selfhost\obj\Debug\PC_Parts_Selfhost.csproj.CopyComplete
+I:\Temporary Work Files\PC_Parts\PC_Parts_Selfhost\obj\Debug\PC_Parts_Selfhost.exe
+I:\Temporary Work Files\PC_Parts\PC_Parts_Selfhost\obj\Debug\PC_Parts_Selfhost.pdb
+I:\Temporary Work Files\PC_Parts\PC_Parts_Selfhost\bin\Debug\Microsoft.AspNetCore.Cors.dll
+I:\Temporary Work Files\PC_Parts\PC_Parts_Selfhost\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.dll
+I:\Temporary Work Files\PC_Parts\PC_Parts_Selfhost\bin\Debug\Microsoft.AspNetCore.Http.Extensions.dll
+I:\Temporary Work Files\PC_Parts\PC_Parts_Selfhost\bin\Debug\Microsoft.AspNetCore.Http.Features.dll
+I:\Temporary Work Files\PC_Parts\PC_Parts_Selfhost\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+I:\Temporary Work Files\PC_Parts\PC_Parts_Selfhost\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+I:\Temporary Work Files\PC_Parts\PC_Parts_Selfhost\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+I:\Temporary Work Files\PC_Parts\PC_Parts_Selfhost\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+I:\Temporary Work Files\PC_Parts\PC_Parts_Selfhost\bin\Debug\Microsoft.Extensions.Options.dll
+I:\Temporary Work Files\PC_Parts\PC_Parts_Selfhost\bin\Debug\Microsoft.Extensions.Primitives.dll
+I:\Temporary Work Files\PC_Parts\PC_Parts_Selfhost\bin\Debug\Microsoft.Net.Http.Headers.dll
+I:\Temporary Work Files\PC_Parts\PC_Parts_Selfhost\bin\Debug\System.Buffers.dll
+I:\Temporary Work Files\PC_Parts\PC_Parts_Selfhost\bin\Debug\System.ComponentModel.Annotations.dll
+I:\Temporary Work Files\PC_Parts\PC_Parts_Selfhost\bin\Debug\System.Memory.dll
+I:\Temporary Work Files\PC_Parts\PC_Parts_Selfhost\bin\Debug\System.Numerics.Vectors.dll
+I:\Temporary Work Files\PC_Parts\PC_Parts_Selfhost\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+I:\Temporary Work Files\PC_Parts\PC_Parts_Selfhost\bin\Debug\System.Text.Encodings.Web.dll
+I:\Temporary Work Files\PC_Parts\PC_Parts_Selfhost\bin\Debug\Microsoft.AspNetCore.Cors.xml
+I:\Temporary Work Files\PC_Parts\PC_Parts_Selfhost\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.xml
+I:\Temporary Work Files\PC_Parts\PC_Parts_Selfhost\bin\Debug\Microsoft.AspNetCore.Http.Extensions.xml
+I:\Temporary Work Files\PC_Parts\PC_Parts_Selfhost\bin\Debug\Microsoft.AspNetCore.Http.Features.xml
+I:\Temporary Work Files\PC_Parts\PC_Parts_Selfhost\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+I:\Temporary Work Files\PC_Parts\PC_Parts_Selfhost\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+I:\Temporary Work Files\PC_Parts\PC_Parts_Selfhost\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+I:\Temporary Work Files\PC_Parts\PC_Parts_Selfhost\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+I:\Temporary Work Files\PC_Parts\PC_Parts_Selfhost\bin\Debug\Microsoft.Extensions.Options.xml
+I:\Temporary Work Files\PC_Parts\PC_Parts_Selfhost\bin\Debug\Microsoft.Extensions.Primitives.xml
+I:\Temporary Work Files\PC_Parts\PC_Parts_Selfhost\bin\Debug\Microsoft.Net.Http.Headers.xml
+I:\Temporary Work Files\PC_Parts\PC_Parts_Selfhost\bin\Debug\System.Buffers.xml
+I:\Temporary Work Files\PC_Parts\PC_Parts_Selfhost\bin\Debug\System.Memory.xml
+I:\Temporary Work Files\PC_Parts\PC_Parts_Selfhost\bin\Debug\System.Numerics.Vectors.xml
+I:\Temporary Work Files\PC_Parts\PC_Parts_Selfhost\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+I:\Temporary Work Files\PC_Parts\PC_Parts_Selfhost\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Daniel\Desktop\PC_Parts\PC_Parts_Selfhost\bin\Debug\PC_Parts_Selfhost.exe.config
+C:\Users\Daniel\Desktop\PC_Parts\PC_Parts_Selfhost\bin\Debug\PC_Parts_Selfhost.exe
+C:\Users\Daniel\Desktop\PC_Parts\PC_Parts_Selfhost\bin\Debug\PC_Parts_Selfhost.pdb
+C:\Users\Daniel\Desktop\PC_Parts\PC_Parts_Selfhost\bin\Debug\Microsoft.AspNetCore.Cors.dll
+C:\Users\Daniel\Desktop\PC_Parts\PC_Parts_Selfhost\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\Daniel\Desktop\PC_Parts\PC_Parts_Selfhost\bin\Debug\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\Daniel\Desktop\PC_Parts\PC_Parts_Selfhost\bin\Debug\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\Daniel\Desktop\PC_Parts\PC_Parts_Selfhost\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Daniel\Desktop\PC_Parts\PC_Parts_Selfhost\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Daniel\Desktop\PC_Parts\PC_Parts_Selfhost\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Daniel\Desktop\PC_Parts\PC_Parts_Selfhost\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Daniel\Desktop\PC_Parts\PC_Parts_Selfhost\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Daniel\Desktop\PC_Parts\PC_Parts_Selfhost\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Daniel\Desktop\PC_Parts\PC_Parts_Selfhost\bin\Debug\Microsoft.Net.Http.Headers.dll
+C:\Users\Daniel\Desktop\PC_Parts\PC_Parts_Selfhost\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Daniel\Desktop\PC_Parts\PC_Parts_Selfhost\bin\Debug\PC_Parts.exe
+C:\Users\Daniel\Desktop\PC_Parts\PC_Parts_Selfhost\bin\Debug\System.Buffers.dll
+C:\Users\Daniel\Desktop\PC_Parts\PC_Parts_Selfhost\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Daniel\Desktop\PC_Parts\PC_Parts_Selfhost\bin\Debug\System.Memory.dll
+C:\Users\Daniel\Desktop\PC_Parts\PC_Parts_Selfhost\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Daniel\Desktop\PC_Parts\PC_Parts_Selfhost\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Daniel\Desktop\PC_Parts\PC_Parts_Selfhost\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Daniel\Desktop\PC_Parts\PC_Parts_Selfhost\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Daniel\Desktop\PC_Parts\PC_Parts_Selfhost\bin\Debug\System.Web.Http.dll
+C:\Users\Daniel\Desktop\PC_Parts\PC_Parts_Selfhost\bin\Debug\System.Web.Http.SelfHost.dll
+C:\Users\Daniel\Desktop\PC_Parts\PC_Parts_Selfhost\bin\Debug\PC_Parts.pdb
+C:\Users\Daniel\Desktop\PC_Parts\PC_Parts_Selfhost\bin\Debug\PC_Parts.exe.config
+C:\Users\Daniel\Desktop\PC_Parts\PC_Parts_Selfhost\bin\Debug\Microsoft.AspNetCore.Cors.xml
+C:\Users\Daniel\Desktop\PC_Parts\PC_Parts_Selfhost\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\Daniel\Desktop\PC_Parts\PC_Parts_Selfhost\bin\Debug\Microsoft.AspNetCore.Http.Extensions.xml
+C:\Users\Daniel\Desktop\PC_Parts\PC_Parts_Selfhost\bin\Debug\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\Daniel\Desktop\PC_Parts\PC_Parts_Selfhost\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Daniel\Desktop\PC_Parts\PC_Parts_Selfhost\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Daniel\Desktop\PC_Parts\PC_Parts_Selfhost\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\Daniel\Desktop\PC_Parts\PC_Parts_Selfhost\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Daniel\Desktop\PC_Parts\PC_Parts_Selfhost\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Daniel\Desktop\PC_Parts\PC_Parts_Selfhost\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Daniel\Desktop\PC_Parts\PC_Parts_Selfhost\bin\Debug\Microsoft.Net.Http.Headers.xml
+C:\Users\Daniel\Desktop\PC_Parts\PC_Parts_Selfhost\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Daniel\Desktop\PC_Parts\PC_Parts_Selfhost\bin\Debug\System.Buffers.xml
+C:\Users\Daniel\Desktop\PC_Parts\PC_Parts_Selfhost\bin\Debug\System.Memory.xml
+C:\Users\Daniel\Desktop\PC_Parts\PC_Parts_Selfhost\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Daniel\Desktop\PC_Parts\PC_Parts_Selfhost\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Daniel\Desktop\PC_Parts\PC_Parts_Selfhost\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Daniel\Desktop\PC_Parts\PC_Parts_Selfhost\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Daniel\Desktop\PC_Parts\PC_Parts_Selfhost\bin\Debug\System.Web.Http.xml
+C:\Users\Daniel\Desktop\PC_Parts\PC_Parts_Selfhost\bin\Debug\System.Web.Http.SelfHost.xml
+C:\Users\Daniel\Desktop\PC_Parts\PC_Parts_Selfhost\obj\Debug\PC_Parts_Selfhost.csprojAssemblyReference.cache
+C:\Users\Daniel\Desktop\PC_Parts\PC_Parts_Selfhost\obj\Debug\PC_Parts_Selfhost.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Desktop\PC_Parts\PC_Parts_Selfhost\obj\Debug\PC_Parts_Selfhost.csproj.CopyComplete
+C:\Users\Daniel\Desktop\PC_Parts\PC_Parts_Selfhost\obj\Debug\PC_Parts_Selfhost.exe
+C:\Users\Daniel\Desktop\PC_Parts\PC_Parts_Selfhost\obj\Debug\PC_Parts_Selfhost.pdb
+C:\PC_Parts\PC_Parts_Selfhost\bin\Debug\PC_Parts_Selfhost.exe.config
+C:\PC_Parts\PC_Parts_Selfhost\bin\Debug\PC_Parts_Selfhost.exe
+C:\PC_Parts\PC_Parts_Selfhost\bin\Debug\PC_Parts_Selfhost.pdb
+C:\PC_Parts\PC_Parts_Selfhost\bin\Debug\Microsoft.AspNetCore.Cors.dll
+C:\PC_Parts\PC_Parts_Selfhost\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\PC_Parts\PC_Parts_Selfhost\bin\Debug\Microsoft.AspNetCore.Http.Extensions.dll
+C:\PC_Parts\PC_Parts_Selfhost\bin\Debug\Microsoft.AspNetCore.Http.Features.dll
+C:\PC_Parts\PC_Parts_Selfhost\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\PC_Parts\PC_Parts_Selfhost\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\PC_Parts\PC_Parts_Selfhost\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\PC_Parts\PC_Parts_Selfhost\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\PC_Parts\PC_Parts_Selfhost\bin\Debug\Microsoft.Extensions.Options.dll
+C:\PC_Parts\PC_Parts_Selfhost\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\PC_Parts\PC_Parts_Selfhost\bin\Debug\Microsoft.Net.Http.Headers.dll
+C:\PC_Parts\PC_Parts_Selfhost\bin\Debug\Newtonsoft.Json.dll
+C:\PC_Parts\PC_Parts_Selfhost\bin\Debug\PC_Parts.exe
+C:\PC_Parts\PC_Parts_Selfhost\bin\Debug\System.Buffers.dll
+C:\PC_Parts\PC_Parts_Selfhost\bin\Debug\System.ComponentModel.Annotations.dll
+C:\PC_Parts\PC_Parts_Selfhost\bin\Debug\System.Memory.dll
+C:\PC_Parts\PC_Parts_Selfhost\bin\Debug\System.Net.Http.Formatting.dll
+C:\PC_Parts\PC_Parts_Selfhost\bin\Debug\System.Numerics.Vectors.dll
+C:\PC_Parts\PC_Parts_Selfhost\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\PC_Parts\PC_Parts_Selfhost\bin\Debug\System.Text.Encodings.Web.dll
+C:\PC_Parts\PC_Parts_Selfhost\bin\Debug\System.Web.Http.dll
+C:\PC_Parts\PC_Parts_Selfhost\bin\Debug\System.Web.Http.SelfHost.dll
+C:\PC_Parts\PC_Parts_Selfhost\bin\Debug\PC_Parts.pdb
+C:\PC_Parts\PC_Parts_Selfhost\bin\Debug\PC_Parts.exe.config
+C:\PC_Parts\PC_Parts_Selfhost\bin\Debug\Microsoft.AspNetCore.Cors.xml
+C:\PC_Parts\PC_Parts_Selfhost\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\PC_Parts\PC_Parts_Selfhost\bin\Debug\Microsoft.AspNetCore.Http.Extensions.xml
+C:\PC_Parts\PC_Parts_Selfhost\bin\Debug\Microsoft.AspNetCore.Http.Features.xml
+C:\PC_Parts\PC_Parts_Selfhost\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\PC_Parts\PC_Parts_Selfhost\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\PC_Parts\PC_Parts_Selfhost\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\PC_Parts\PC_Parts_Selfhost\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\PC_Parts\PC_Parts_Selfhost\bin\Debug\Microsoft.Extensions.Options.xml
+C:\PC_Parts\PC_Parts_Selfhost\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\PC_Parts\PC_Parts_Selfhost\bin\Debug\Microsoft.Net.Http.Headers.xml
+C:\PC_Parts\PC_Parts_Selfhost\bin\Debug\Newtonsoft.Json.xml
+C:\PC_Parts\PC_Parts_Selfhost\bin\Debug\System.Buffers.xml
+C:\PC_Parts\PC_Parts_Selfhost\bin\Debug\System.Memory.xml
+C:\PC_Parts\PC_Parts_Selfhost\bin\Debug\System.Net.Http.Formatting.xml
+C:\PC_Parts\PC_Parts_Selfhost\bin\Debug\System.Numerics.Vectors.xml
+C:\PC_Parts\PC_Parts_Selfhost\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\PC_Parts\PC_Parts_Selfhost\bin\Debug\System.Text.Encodings.Web.xml
+C:\PC_Parts\PC_Parts_Selfhost\bin\Debug\System.Web.Http.xml
+C:\PC_Parts\PC_Parts_Selfhost\bin\Debug\System.Web.Http.SelfHost.xml
+C:\PC_Parts\PC_Parts_Selfhost\obj\Debug\PC_Parts_Selfhost.csprojAssemblyReference.cache
+C:\PC_Parts\PC_Parts_Selfhost\obj\Debug\PC_Parts_Selfhost.csproj.CopyComplete
+C:\PC_Parts\PC_Parts_Selfhost\obj\Debug\PC_Parts_Selfhost.exe
+C:\PC_Parts\PC_Parts_Selfhost\obj\Debug\PC_Parts_Selfhost.pdb
+C:\Users\Daniel\Desktop\NMIT Past Study Files\NMIT 2020\Semester 1\SDV701\Assessment 2 Stage 2\PC_Parts\PC_Parts_Selfhost\bin\Debug\PC_Parts_Selfhost.exe.config
+C:\Users\Daniel\Desktop\NMIT Past Study Files\NMIT 2020\Semester 1\SDV701\Assessment 2 Stage 2\PC_Parts\PC_Parts_Selfhost\bin\Debug\PC_Parts_Selfhost.exe
+C:\Users\Daniel\Desktop\NMIT Past Study Files\NMIT 2020\Semester 1\SDV701\Assessment 2 Stage 2\PC_Parts\PC_Parts_Selfhost\bin\Debug\PC_Parts_Selfhost.pdb
+C:\Users\Daniel\Desktop\NMIT Past Study Files\NMIT 2020\Semester 1\SDV701\Assessment 2 Stage 2\PC_Parts\PC_Parts_Selfhost\bin\Debug\Microsoft.AspNetCore.Cors.dll
+C:\Users\Daniel\Desktop\NMIT Past Study Files\NMIT 2020\Semester 1\SDV701\Assessment 2 Stage 2\PC_Parts\PC_Parts_Selfhost\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\Daniel\Desktop\NMIT Past Study Files\NMIT 2020\Semester 1\SDV701\Assessment 2 Stage 2\PC_Parts\PC_Parts_Selfhost\bin\Debug\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\Daniel\Desktop\NMIT Past Study Files\NMIT 2020\Semester 1\SDV701\Assessment 2 Stage 2\PC_Parts\PC_Parts_Selfhost\bin\Debug\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\Daniel\Desktop\NMIT Past Study Files\NMIT 2020\Semester 1\SDV701\Assessment 2 Stage 2\PC_Parts\PC_Parts_Selfhost\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Daniel\Desktop\NMIT Past Study Files\NMIT 2020\Semester 1\SDV701\Assessment 2 Stage 2\PC_Parts\PC_Parts_Selfhost\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Daniel\Desktop\NMIT Past Study Files\NMIT 2020\Semester 1\SDV701\Assessment 2 Stage 2\PC_Parts\PC_Parts_Selfhost\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Daniel\Desktop\NMIT Past Study Files\NMIT 2020\Semester 1\SDV701\Assessment 2 Stage 2\PC_Parts\PC_Parts_Selfhost\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Daniel\Desktop\NMIT Past Study Files\NMIT 2020\Semester 1\SDV701\Assessment 2 Stage 2\PC_Parts\PC_Parts_Selfhost\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Daniel\Desktop\NMIT Past Study Files\NMIT 2020\Semester 1\SDV701\Assessment 2 Stage 2\PC_Parts\PC_Parts_Selfhost\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Daniel\Desktop\NMIT Past Study Files\NMIT 2020\Semester 1\SDV701\Assessment 2 Stage 2\PC_Parts\PC_Parts_Selfhost\bin\Debug\Microsoft.Net.Http.Headers.dll
+C:\Users\Daniel\Desktop\NMIT Past Study Files\NMIT 2020\Semester 1\SDV701\Assessment 2 Stage 2\PC_Parts\PC_Parts_Selfhost\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Daniel\Desktop\NMIT Past Study Files\NMIT 2020\Semester 1\SDV701\Assessment 2 Stage 2\PC_Parts\PC_Parts_Selfhost\bin\Debug\PC_Parts.exe
+C:\Users\Daniel\Desktop\NMIT Past Study Files\NMIT 2020\Semester 1\SDV701\Assessment 2 Stage 2\PC_Parts\PC_Parts_Selfhost\bin\Debug\System.Buffers.dll
+C:\Users\Daniel\Desktop\NMIT Past Study Files\NMIT 2020\Semester 1\SDV701\Assessment 2 Stage 2\PC_Parts\PC_Parts_Selfhost\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Daniel\Desktop\NMIT Past Study Files\NMIT 2020\Semester 1\SDV701\Assessment 2 Stage 2\PC_Parts\PC_Parts_Selfhost\bin\Debug\System.Memory.dll
+C:\Users\Daniel\Desktop\NMIT Past Study Files\NMIT 2020\Semester 1\SDV701\Assessment 2 Stage 2\PC_Parts\PC_Parts_Selfhost\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Daniel\Desktop\NMIT Past Study Files\NMIT 2020\Semester 1\SDV701\Assessment 2 Stage 2\PC_Parts\PC_Parts_Selfhost\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Daniel\Desktop\NMIT Past Study Files\NMIT 2020\Semester 1\SDV701\Assessment 2 Stage 2\PC_Parts\PC_Parts_Selfhost\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Daniel\Desktop\NMIT Past Study Files\NMIT 2020\Semester 1\SDV701\Assessment 2 Stage 2\PC_Parts\PC_Parts_Selfhost\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Daniel\Desktop\NMIT Past Study Files\NMIT 2020\Semester 1\SDV701\Assessment 2 Stage 2\PC_Parts\PC_Parts_Selfhost\bin\Debug\System.Web.Http.dll
+C:\Users\Daniel\Desktop\NMIT Past Study Files\NMIT 2020\Semester 1\SDV701\Assessment 2 Stage 2\PC_Parts\PC_Parts_Selfhost\bin\Debug\System.Web.Http.SelfHost.dll
+C:\Users\Daniel\Desktop\NMIT Past Study Files\NMIT 2020\Semester 1\SDV701\Assessment 2 Stage 2\PC_Parts\PC_Parts_Selfhost\bin\Debug\PC_Parts.pdb
+C:\Users\Daniel\Desktop\NMIT Past Study Files\NMIT 2020\Semester 1\SDV701\Assessment 2 Stage 2\PC_Parts\PC_Parts_Selfhost\bin\Debug\PC_Parts.exe.config
+C:\Users\Daniel\Desktop\NMIT Past Study Files\NMIT 2020\Semester 1\SDV701\Assessment 2 Stage 2\PC_Parts\PC_Parts_Selfhost\bin\Debug\Microsoft.AspNetCore.Cors.xml
+C:\Users\Daniel\Desktop\NMIT Past Study Files\NMIT 2020\Semester 1\SDV701\Assessment 2 Stage 2\PC_Parts\PC_Parts_Selfhost\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\Daniel\Desktop\NMIT Past Study Files\NMIT 2020\Semester 1\SDV701\Assessment 2 Stage 2\PC_Parts\PC_Parts_Selfhost\bin\Debug\Microsoft.AspNetCore.Http.Extensions.xml
+C:\Users\Daniel\Desktop\NMIT Past Study Files\NMIT 2020\Semester 1\SDV701\Assessment 2 Stage 2\PC_Parts\PC_Parts_Selfhost\bin\Debug\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\Daniel\Desktop\NMIT Past Study Files\NMIT 2020\Semester 1\SDV701\Assessment 2 Stage 2\PC_Parts\PC_Parts_Selfhost\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Daniel\Desktop\NMIT Past Study Files\NMIT 2020\Semester 1\SDV701\Assessment 2 Stage 2\PC_Parts\PC_Parts_Selfhost\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Daniel\Desktop\NMIT Past Study Files\NMIT 2020\Semester 1\SDV701\Assessment 2 Stage 2\PC_Parts\PC_Parts_Selfhost\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\Daniel\Desktop\NMIT Past Study Files\NMIT 2020\Semester 1\SDV701\Assessment 2 Stage 2\PC_Parts\PC_Parts_Selfhost\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Daniel\Desktop\NMIT Past Study Files\NMIT 2020\Semester 1\SDV701\Assessment 2 Stage 2\PC_Parts\PC_Parts_Selfhost\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Daniel\Desktop\NMIT Past Study Files\NMIT 2020\Semester 1\SDV701\Assessment 2 Stage 2\PC_Parts\PC_Parts_Selfhost\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Daniel\Desktop\NMIT Past Study Files\NMIT 2020\Semester 1\SDV701\Assessment 2 Stage 2\PC_Parts\PC_Parts_Selfhost\bin\Debug\Microsoft.Net.Http.Headers.xml
+C:\Users\Daniel\Desktop\NMIT Past Study Files\NMIT 2020\Semester 1\SDV701\Assessment 2 Stage 2\PC_Parts\PC_Parts_Selfhost\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Daniel\Desktop\NMIT Past Study Files\NMIT 2020\Semester 1\SDV701\Assessment 2 Stage 2\PC_Parts\PC_Parts_Selfhost\bin\Debug\System.Buffers.xml
+C:\Users\Daniel\Desktop\NMIT Past Study Files\NMIT 2020\Semester 1\SDV701\Assessment 2 Stage 2\PC_Parts\PC_Parts_Selfhost\bin\Debug\System.Memory.xml
+C:\Users\Daniel\Desktop\NMIT Past Study Files\NMIT 2020\Semester 1\SDV701\Assessment 2 Stage 2\PC_Parts\PC_Parts_Selfhost\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Daniel\Desktop\NMIT Past Study Files\NMIT 2020\Semester 1\SDV701\Assessment 2 Stage 2\PC_Parts\PC_Parts_Selfhost\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Daniel\Desktop\NMIT Past Study Files\NMIT 2020\Semester 1\SDV701\Assessment 2 Stage 2\PC_Parts\PC_Parts_Selfhost\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Daniel\Desktop\NMIT Past Study Files\NMIT 2020\Semester 1\SDV701\Assessment 2 Stage 2\PC_Parts\PC_Parts_Selfhost\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Daniel\Desktop\NMIT Past Study Files\NMIT 2020\Semester 1\SDV701\Assessment 2 Stage 2\PC_Parts\PC_Parts_Selfhost\bin\Debug\System.Web.Http.xml
+C:\Users\Daniel\Desktop\NMIT Past Study Files\NMIT 2020\Semester 1\SDV701\Assessment 2 Stage 2\PC_Parts\PC_Parts_Selfhost\bin\Debug\System.Web.Http.SelfHost.xml
+C:\Users\Daniel\Desktop\NMIT Past Study Files\NMIT 2020\Semester 1\SDV701\Assessment 2 Stage 2\PC_Parts\PC_Parts_Selfhost\obj\Debug\PC_Parts_Selfhost.csprojAssemblyReference.cache
+C:\Users\Daniel\Desktop\NMIT Past Study Files\NMIT 2020\Semester 1\SDV701\Assessment 2 Stage 2\PC_Parts\PC_Parts_Selfhost\obj\Debug\PC_Parts_Selfhost.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Desktop\NMIT Past Study Files\NMIT 2020\Semester 1\SDV701\Assessment 2 Stage 2\PC_Parts\PC_Parts_Selfhost\obj\Debug\PC_Parts_Selfhost.csproj.CopyComplete
+C:\Users\Daniel\Desktop\NMIT Past Study Files\NMIT 2020\Semester 1\SDV701\Assessment 2 Stage 2\PC_Parts\PC_Parts_Selfhost\obj\Debug\PC_Parts_Selfhost.exe
+C:\Users\Daniel\Desktop\NMIT Past Study Files\NMIT 2020\Semester 1\SDV701\Assessment 2 Stage 2\PC_Parts\PC_Parts_Selfhost\obj\Debug\PC_Parts_Selfhost.pdb

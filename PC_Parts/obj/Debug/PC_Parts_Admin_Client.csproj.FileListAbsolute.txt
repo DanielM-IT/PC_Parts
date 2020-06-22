@@ -1,0 +1,272 @@
+C:\Users\Daniel\Documents\Visual_Studio_Projects\PC_Parts\PC_Parts\obj\Debug\PC_Parts_Admin_Client.csprojAssemblyReference.cache
+C:\Users\Daniel\Documents\Visual_Studio_Projects\PC_Parts\PC_Parts\obj\Debug\PC_Parts.Properties.Resources.resources
+C:\Users\Daniel\Documents\Visual_Studio_Projects\PC_Parts\PC_Parts\obj\Debug\PC_Parts_Admin_Client.csproj.GenerateResource.cache
+C:\Users\Daniel\Documents\Visual_Studio_Projects\PC_Parts\PC_Parts\bin\Debug\PC_Parts.exe.config
+C:\Users\Daniel\Documents\Visual_Studio_Projects\PC_Parts\PC_Parts\bin\Debug\PC_Parts.exe
+C:\Users\Daniel\Documents\Visual_Studio_Projects\PC_Parts\PC_Parts\bin\Debug\PC_Parts.pdb
+C:\Users\Daniel\Documents\Visual_Studio_Projects\PC_Parts\PC_Parts\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Daniel\Documents\Visual_Studio_Projects\PC_Parts\PC_Parts\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Daniel\Documents\Visual_Studio_Projects\PC_Parts\PC_Parts\obj\Debug\PC_Parts_Admin_Client.csproj.CopyComplete
+C:\Users\Daniel\Documents\Visual_Studio_Projects\PC_Parts\PC_Parts\obj\Debug\PC_Parts.exe
+C:\Users\Daniel\Documents\Visual_Studio_Projects\PC_Parts\PC_Parts\obj\Debug\PC_Parts.pdb
+C:\Users\Daniel\Documents\Visual_Studio_Projects\PC_Parts\PC_Parts\obj\Debug\PC_Parts.frmCategory.resources
+C:\Users\Daniel\Documents\Visual_Studio_Projects\PC_Parts\PC_Parts\obj\Debug\PC_Parts.frmMain.resources
+C:\Users\Daniel\Documents\Visual_Studio_Projects\PC_Parts\PC_Parts\obj\Debug\PC_Parts.frmProduct.resources
+C:\Users\Daniel\Documents\Visual_Studio_Projects\PC_Parts\PC_Parts\obj\Debug\PC_Parts.frmUsedProduct.resources
+C:\Users\Daniel\Documents\Visual_Studio_Projects\PC_Parts\PC_Parts\obj\Debug\PC_Parts.frmNewProduct.resources
+C:\Users\Daniel\Documents\Visual_Studio_Projects\PC_Parts\PC_Parts\obj\Debug\PC_Parts.frmOrder.resources
+C:\Users\7ebed\OneDrive\Desktop\PC_Parts\PC_Parts\bin\Debug\PC_Parts.exe.config
+C:\Users\7ebed\OneDrive\Desktop\PC_Parts\PC_Parts\bin\Debug\PC_Parts.exe
+C:\Users\7ebed\OneDrive\Desktop\PC_Parts\PC_Parts\bin\Debug\PC_Parts.pdb
+C:\Users\7ebed\OneDrive\Desktop\PC_Parts\PC_Parts\bin\Debug\Newtonsoft.Json.dll
+C:\Users\7ebed\OneDrive\Desktop\PC_Parts\PC_Parts\bin\Debug\Newtonsoft.Json.xml
+C:\Users\7ebed\OneDrive\Desktop\PC_Parts\PC_Parts\obj\Debug\PC_Parts_Admin_Client.csprojAssemblyReference.cache
+C:\Users\7ebed\OneDrive\Desktop\PC_Parts\PC_Parts\obj\Debug\PC_Parts.frmCategory.resources
+C:\Users\7ebed\OneDrive\Desktop\PC_Parts\PC_Parts\obj\Debug\PC_Parts.frmMain.resources
+C:\Users\7ebed\OneDrive\Desktop\PC_Parts\PC_Parts\obj\Debug\PC_Parts.frmNewProduct.resources
+C:\Users\7ebed\OneDrive\Desktop\PC_Parts\PC_Parts\obj\Debug\PC_Parts.frmOrder.resources
+C:\Users\7ebed\OneDrive\Desktop\PC_Parts\PC_Parts\obj\Debug\PC_Parts.frmProduct.resources
+C:\Users\7ebed\OneDrive\Desktop\PC_Parts\PC_Parts\obj\Debug\PC_Parts.frmUsedProduct.resources
+C:\Users\7ebed\OneDrive\Desktop\PC_Parts\PC_Parts\obj\Debug\PC_Parts.Properties.Resources.resources
+C:\Users\7ebed\OneDrive\Desktop\PC_Parts\PC_Parts\obj\Debug\PC_Parts_Admin_Client.csproj.GenerateResource.cache
+C:\Users\7ebed\OneDrive\Desktop\PC_Parts\PC_Parts\obj\Debug\PC_Parts_Admin_Client.csproj.CopyComplete
+C:\Users\7ebed\OneDrive\Desktop\PC_Parts\PC_Parts\obj\Debug\PC_Parts.exe
+C:\Users\7ebed\OneDrive\Desktop\PC_Parts\PC_Parts\obj\Debug\PC_Parts.pdb
+C:\Users\7ebed\Documents\PC_Parts\PC_Parts\bin\Debug\PC_Parts.exe.config
+C:\Users\7ebed\Documents\PC_Parts\PC_Parts\bin\Debug\PC_Parts.exe
+C:\Users\7ebed\Documents\PC_Parts\PC_Parts\bin\Debug\PC_Parts.pdb
+C:\Users\7ebed\Documents\PC_Parts\PC_Parts\bin\Debug\Newtonsoft.Json.dll
+C:\Users\7ebed\Documents\PC_Parts\PC_Parts\bin\Debug\Newtonsoft.Json.xml
+C:\Users\7ebed\Documents\PC_Parts\PC_Parts\obj\Debug\PC_Parts_Admin_Client.csprojAssemblyReference.cache
+C:\Users\7ebed\Documents\PC_Parts\PC_Parts\obj\Debug\PC_Parts.frmCategory.resources
+C:\Users\7ebed\Documents\PC_Parts\PC_Parts\obj\Debug\PC_Parts.frmMain.resources
+C:\Users\7ebed\Documents\PC_Parts\PC_Parts\obj\Debug\PC_Parts.frmNewProduct.resources
+C:\Users\7ebed\Documents\PC_Parts\PC_Parts\obj\Debug\PC_Parts.frmOrder.resources
+C:\Users\7ebed\Documents\PC_Parts\PC_Parts\obj\Debug\PC_Parts.frmProduct.resources
+C:\Users\7ebed\Documents\PC_Parts\PC_Parts\obj\Debug\PC_Parts.frmUsedProduct.resources
+C:\Users\7ebed\Documents\PC_Parts\PC_Parts\obj\Debug\PC_Parts.Properties.Resources.resources
+C:\Users\7ebed\Documents\PC_Parts\PC_Parts\obj\Debug\PC_Parts_Admin_Client.csproj.GenerateResource.cache
+C:\Users\7ebed\Documents\PC_Parts\PC_Parts\obj\Debug\PC_Parts_Admin_Client.csproj.CopyComplete
+C:\Users\7ebed\Documents\PC_Parts\PC_Parts\obj\Debug\PC_Parts.exe
+C:\Users\7ebed\Documents\PC_Parts\PC_Parts\obj\Debug\PC_Parts.pdb
+I:\Temporary Work Files\PC_Parts\PC_Parts\bin\Debug\PC_Parts.exe.config
+I:\Temporary Work Files\PC_Parts\PC_Parts\bin\Debug\PC_Parts.exe
+I:\Temporary Work Files\PC_Parts\PC_Parts\bin\Debug\PC_Parts.pdb
+I:\Temporary Work Files\PC_Parts\PC_Parts\bin\Debug\Newtonsoft.Json.dll
+I:\Temporary Work Files\PC_Parts\PC_Parts\bin\Debug\Newtonsoft.Json.xml
+I:\Temporary Work Files\PC_Parts\PC_Parts\obj\Debug\PC_Parts_Admin_Client.csprojAssemblyReference.cache
+I:\Temporary Work Files\PC_Parts\PC_Parts\obj\Debug\PC_Parts.frmCategory.resources
+I:\Temporary Work Files\PC_Parts\PC_Parts\obj\Debug\PC_Parts.frmMain.resources
+I:\Temporary Work Files\PC_Parts\PC_Parts\obj\Debug\PC_Parts.frmNewProduct.resources
+I:\Temporary Work Files\PC_Parts\PC_Parts\obj\Debug\PC_Parts.frmOrder.resources
+I:\Temporary Work Files\PC_Parts\PC_Parts\obj\Debug\PC_Parts.frmProduct.resources
+I:\Temporary Work Files\PC_Parts\PC_Parts\obj\Debug\PC_Parts.frmUsedProduct.resources
+I:\Temporary Work Files\PC_Parts\PC_Parts\obj\Debug\PC_Parts.Properties.Resources.resources
+I:\Temporary Work Files\PC_Parts\PC_Parts\obj\Debug\PC_Parts_Admin_Client.csproj.GenerateResource.cache
+I:\Temporary Work Files\PC_Parts\PC_Parts\obj\Debug\PC_Parts_Admin_Client.csproj.CopyComplete
+I:\Temporary Work Files\PC_Parts\PC_Parts\obj\Debug\PC_Parts.exe
+I:\Temporary Work Files\PC_Parts\PC_Parts\obj\Debug\PC_Parts.pdb
+I:\Temporary Work Files\PC_Parts\PC_Parts\bin\Debug\EntityFramework.dll
+I:\Temporary Work Files\PC_Parts\PC_Parts\bin\Debug\EntityFramework.SqlServer.dll
+I:\Temporary Work Files\PC_Parts\PC_Parts\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+I:\Temporary Work Files\PC_Parts\PC_Parts\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+I:\Temporary Work Files\PC_Parts\PC_Parts\bin\Debug\Microsoft.IdentityModel.Logging.dll
+I:\Temporary Work Files\PC_Parts\PC_Parts\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+I:\Temporary Work Files\PC_Parts\PC_Parts\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+I:\Temporary Work Files\PC_Parts\PC_Parts\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+I:\Temporary Work Files\PC_Parts\PC_Parts\bin\Debug\Microsoft.Owin.dll
+I:\Temporary Work Files\PC_Parts\PC_Parts\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+I:\Temporary Work Files\PC_Parts\PC_Parts\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+I:\Temporary Work Files\PC_Parts\PC_Parts\bin\Debug\Microsoft.Owin.Security.dll
+I:\Temporary Work Files\PC_Parts\PC_Parts\bin\Debug\Microsoft.Owin.Security.Jwt.dll
+I:\Temporary Work Files\PC_Parts\PC_Parts\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+I:\Temporary Work Files\PC_Parts\PC_Parts\bin\Debug\Owin.dll
+I:\Temporary Work Files\PC_Parts\PC_Parts\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+I:\Temporary Work Files\PC_Parts\PC_Parts\bin\Debug\System.Net.Http.Formatting.dll
+I:\Temporary Work Files\PC_Parts\PC_Parts\bin\Debug\System.Web.Cors.dll
+I:\Temporary Work Files\PC_Parts\PC_Parts\bin\Debug\System.Web.Http.Cors.dll
+I:\Temporary Work Files\PC_Parts\PC_Parts\bin\Debug\System.Web.Http.dll
+I:\Temporary Work Files\PC_Parts\PC_Parts\bin\Debug\EntityFramework.xml
+I:\Temporary Work Files\PC_Parts\PC_Parts\bin\Debug\EntityFramework.SqlServer.xml
+I:\Temporary Work Files\PC_Parts\PC_Parts\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+I:\Temporary Work Files\PC_Parts\PC_Parts\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+I:\Temporary Work Files\PC_Parts\PC_Parts\bin\Debug\Microsoft.IdentityModel.Logging.xml
+I:\Temporary Work Files\PC_Parts\PC_Parts\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+I:\Temporary Work Files\PC_Parts\PC_Parts\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+I:\Temporary Work Files\PC_Parts\PC_Parts\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+I:\Temporary Work Files\PC_Parts\PC_Parts\bin\Debug\Microsoft.Owin.xml
+I:\Temporary Work Files\PC_Parts\PC_Parts\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+I:\Temporary Work Files\PC_Parts\PC_Parts\bin\Debug\Microsoft.Owin.Security.xml
+I:\Temporary Work Files\PC_Parts\PC_Parts\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+I:\Temporary Work Files\PC_Parts\PC_Parts\bin\Debug\Microsoft.Owin.Security.Jwt.xml
+I:\Temporary Work Files\PC_Parts\PC_Parts\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+I:\Temporary Work Files\PC_Parts\PC_Parts\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+I:\Temporary Work Files\PC_Parts\PC_Parts\bin\Debug\System.Net.Http.Formatting.xml
+I:\Temporary Work Files\PC_Parts\PC_Parts\bin\Debug\System.Web.Http.xml
+I:\Temporary Work Files\PC_Parts\PC_Parts\bin\Debug\System.Web.Http.Cors.xml
+C:\Users\Daniel\Desktop\PC_Parts\PC_Parts\bin\Debug\PC_Parts.exe.config
+C:\Users\Daniel\Desktop\PC_Parts\PC_Parts\bin\Debug\PC_Parts.exe
+C:\Users\Daniel\Desktop\PC_Parts\PC_Parts\bin\Debug\PC_Parts.pdb
+C:\Users\Daniel\Desktop\PC_Parts\PC_Parts\bin\Debug\EntityFramework.dll
+C:\Users\Daniel\Desktop\PC_Parts\PC_Parts\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Daniel\Desktop\PC_Parts\PC_Parts\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Daniel\Desktop\PC_Parts\PC_Parts\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Daniel\Desktop\PC_Parts\PC_Parts\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\Daniel\Desktop\PC_Parts\PC_Parts\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Daniel\Desktop\PC_Parts\PC_Parts\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Daniel\Desktop\PC_Parts\PC_Parts\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Daniel\Desktop\PC_Parts\PC_Parts\bin\Debug\Microsoft.Owin.dll
+C:\Users\Daniel\Desktop\PC_Parts\PC_Parts\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Daniel\Desktop\PC_Parts\PC_Parts\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Daniel\Desktop\PC_Parts\PC_Parts\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\Daniel\Desktop\PC_Parts\PC_Parts\bin\Debug\Microsoft.Owin.Security.Jwt.dll
+C:\Users\Daniel\Desktop\PC_Parts\PC_Parts\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Daniel\Desktop\PC_Parts\PC_Parts\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Daniel\Desktop\PC_Parts\PC_Parts\bin\Debug\Owin.dll
+C:\Users\Daniel\Desktop\PC_Parts\PC_Parts\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Daniel\Desktop\PC_Parts\PC_Parts\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Daniel\Desktop\PC_Parts\PC_Parts\bin\Debug\System.Web.Cors.dll
+C:\Users\Daniel\Desktop\PC_Parts\PC_Parts\bin\Debug\System.Web.Http.Cors.dll
+C:\Users\Daniel\Desktop\PC_Parts\PC_Parts\bin\Debug\System.Web.Http.dll
+C:\Users\Daniel\Desktop\PC_Parts\PC_Parts\bin\Debug\EntityFramework.xml
+C:\Users\Daniel\Desktop\PC_Parts\PC_Parts\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Daniel\Desktop\PC_Parts\PC_Parts\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Daniel\Desktop\PC_Parts\PC_Parts\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Daniel\Desktop\PC_Parts\PC_Parts\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\Daniel\Desktop\PC_Parts\PC_Parts\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\Daniel\Desktop\PC_Parts\PC_Parts\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\Daniel\Desktop\PC_Parts\PC_Parts\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Daniel\Desktop\PC_Parts\PC_Parts\bin\Debug\Microsoft.Owin.xml
+C:\Users\Daniel\Desktop\PC_Parts\PC_Parts\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Daniel\Desktop\PC_Parts\PC_Parts\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\Daniel\Desktop\PC_Parts\PC_Parts\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Daniel\Desktop\PC_Parts\PC_Parts\bin\Debug\Microsoft.Owin.Security.Jwt.xml
+C:\Users\Daniel\Desktop\PC_Parts\PC_Parts\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Daniel\Desktop\PC_Parts\PC_Parts\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Daniel\Desktop\PC_Parts\PC_Parts\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Daniel\Desktop\PC_Parts\PC_Parts\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Daniel\Desktop\PC_Parts\PC_Parts\bin\Debug\System.Web.Http.xml
+C:\Users\Daniel\Desktop\PC_Parts\PC_Parts\bin\Debug\System.Web.Http.Cors.xml
+C:\Users\Daniel\Desktop\PC_Parts\PC_Parts\obj\Debug\PC_Parts.frmCategory.resources
+C:\Users\Daniel\Desktop\PC_Parts\PC_Parts\obj\Debug\PC_Parts.frmMain.resources
+C:\Users\Daniel\Desktop\PC_Parts\PC_Parts\obj\Debug\PC_Parts.frmNewProduct.resources
+C:\Users\Daniel\Desktop\PC_Parts\PC_Parts\obj\Debug\PC_Parts.frmOrder.resources
+C:\Users\Daniel\Desktop\PC_Parts\PC_Parts\obj\Debug\PC_Parts.frmProduct.resources
+C:\Users\Daniel\Desktop\PC_Parts\PC_Parts\obj\Debug\PC_Parts.frmUsedProduct.resources
+C:\Users\Daniel\Desktop\PC_Parts\PC_Parts\obj\Debug\PC_Parts.Properties.Resources.resources
+C:\Users\Daniel\Desktop\PC_Parts\PC_Parts\obj\Debug\PC_Parts_Admin_Client.csproj.GenerateResource.cache
+C:\Users\Daniel\Desktop\PC_Parts\PC_Parts\obj\Debug\PC_Parts_Admin_Client.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Desktop\PC_Parts\PC_Parts\obj\Debug\PC_Parts_Admin_Client.csproj.CopyComplete
+C:\Users\Daniel\Desktop\PC_Parts\PC_Parts\obj\Debug\PC_Parts.exe
+C:\Users\Daniel\Desktop\PC_Parts\PC_Parts\obj\Debug\PC_Parts.pdb
+C:\Users\Daniel\Desktop\PC_Parts\PC_Parts\obj\Debug\PC_Parts_Admin_Client.csprojAssemblyReference.cache
+C:\PC_Parts\PC_Parts\bin\Debug\PC_Parts.exe.config
+C:\PC_Parts\PC_Parts\bin\Debug\PC_Parts.exe
+C:\PC_Parts\PC_Parts\bin\Debug\PC_Parts.pdb
+C:\PC_Parts\PC_Parts\bin\Debug\EntityFramework.dll
+C:\PC_Parts\PC_Parts\bin\Debug\EntityFramework.SqlServer.dll
+C:\PC_Parts\PC_Parts\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\PC_Parts\PC_Parts\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\PC_Parts\PC_Parts\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\PC_Parts\PC_Parts\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\PC_Parts\PC_Parts\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\PC_Parts\PC_Parts\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\PC_Parts\PC_Parts\bin\Debug\Microsoft.Owin.dll
+C:\PC_Parts\PC_Parts\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\PC_Parts\PC_Parts\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\PC_Parts\PC_Parts\bin\Debug\Microsoft.Owin.Security.dll
+C:\PC_Parts\PC_Parts\bin\Debug\Microsoft.Owin.Security.Jwt.dll
+C:\PC_Parts\PC_Parts\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+C:\PC_Parts\PC_Parts\bin\Debug\Newtonsoft.Json.dll
+C:\PC_Parts\PC_Parts\bin\Debug\Owin.dll
+C:\PC_Parts\PC_Parts\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\PC_Parts\PC_Parts\bin\Debug\System.Net.Http.Formatting.dll
+C:\PC_Parts\PC_Parts\bin\Debug\System.Web.Cors.dll
+C:\PC_Parts\PC_Parts\bin\Debug\System.Web.Http.Cors.dll
+C:\PC_Parts\PC_Parts\bin\Debug\System.Web.Http.dll
+C:\PC_Parts\PC_Parts\bin\Debug\EntityFramework.xml
+C:\PC_Parts\PC_Parts\bin\Debug\EntityFramework.SqlServer.xml
+C:\PC_Parts\PC_Parts\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\PC_Parts\PC_Parts\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\PC_Parts\PC_Parts\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\PC_Parts\PC_Parts\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\PC_Parts\PC_Parts\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\PC_Parts\PC_Parts\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\PC_Parts\PC_Parts\bin\Debug\Microsoft.Owin.xml
+C:\PC_Parts\PC_Parts\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\PC_Parts\PC_Parts\bin\Debug\Microsoft.Owin.Security.xml
+C:\PC_Parts\PC_Parts\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\PC_Parts\PC_Parts\bin\Debug\Microsoft.Owin.Security.Jwt.xml
+C:\PC_Parts\PC_Parts\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+C:\PC_Parts\PC_Parts\bin\Debug\Newtonsoft.Json.xml
+C:\PC_Parts\PC_Parts\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\PC_Parts\PC_Parts\bin\Debug\System.Net.Http.Formatting.xml
+C:\PC_Parts\PC_Parts\bin\Debug\System.Web.Http.xml
+C:\PC_Parts\PC_Parts\bin\Debug\System.Web.Http.Cors.xml
+C:\PC_Parts\PC_Parts\obj\Debug\PC_Parts_Admin_Client.csprojAssemblyReference.cache
+C:\PC_Parts\PC_Parts\obj\Debug\PC_Parts.frmCategory.resources
+C:\PC_Parts\PC_Parts\obj\Debug\PC_Parts.frmMain.resources
+C:\PC_Parts\PC_Parts\obj\Debug\PC_Parts.frmNewProduct.resources
+C:\PC_Parts\PC_Parts\obj\Debug\PC_Parts.frmOrder.resources
+C:\PC_Parts\PC_Parts\obj\Debug\PC_Parts.frmProduct.resources
+C:\PC_Parts\PC_Parts\obj\Debug\PC_Parts.frmUsedProduct.resources
+C:\PC_Parts\PC_Parts\obj\Debug\PC_Parts.Properties.Resources.resources
+C:\PC_Parts\PC_Parts\obj\Debug\PC_Parts_Admin_Client.csproj.GenerateResource.cache
+C:\PC_Parts\PC_Parts\obj\Debug\PC_Parts_Admin_Client.csproj.CopyComplete
+C:\PC_Parts\PC_Parts\obj\Debug\PC_Parts.exe
+C:\PC_Parts\PC_Parts\obj\Debug\PC_Parts.pdb
+C:\Users\Daniel\Desktop\NMIT Past Study Files\NMIT 2020\Semester 1\SDV701\Assessment 2 Stage 2\PC_Parts\PC_Parts\obj\Debug\PC_Parts.frmCategory.resources
+C:\Users\Daniel\Desktop\NMIT Past Study Files\NMIT 2020\Semester 1\SDV701\Assessment 2 Stage 2\PC_Parts\PC_Parts\obj\Debug\PC_Parts.frmMain.resources
+C:\Users\Daniel\Desktop\NMIT Past Study Files\NMIT 2020\Semester 1\SDV701\Assessment 2 Stage 2\PC_Parts\PC_Parts\obj\Debug\PC_Parts.frmNewProduct.resources
+C:\Users\Daniel\Desktop\NMIT Past Study Files\NMIT 2020\Semester 1\SDV701\Assessment 2 Stage 2\PC_Parts\PC_Parts\obj\Debug\PC_Parts.frmOrder.resources
+C:\Users\Daniel\Desktop\NMIT Past Study Files\NMIT 2020\Semester 1\SDV701\Assessment 2 Stage 2\PC_Parts\PC_Parts\obj\Debug\PC_Parts.frmProduct.resources
+C:\Users\Daniel\Desktop\NMIT Past Study Files\NMIT 2020\Semester 1\SDV701\Assessment 2 Stage 2\PC_Parts\PC_Parts\obj\Debug\PC_Parts.frmUsedProduct.resources
+C:\Users\Daniel\Desktop\NMIT Past Study Files\NMIT 2020\Semester 1\SDV701\Assessment 2 Stage 2\PC_Parts\PC_Parts\obj\Debug\PC_Parts_Admin_Client.csproj.GenerateResource.cache
+C:\Users\Daniel\Desktop\NMIT Past Study Files\NMIT 2020\Semester 1\SDV701\Assessment 2 Stage 2\PC_Parts\PC_Parts\obj\Debug\PC_Parts.exe
+C:\Users\Daniel\Desktop\NMIT Past Study Files\NMIT 2020\Semester 1\SDV701\Assessment 2 Stage 2\PC_Parts\PC_Parts\obj\Debug\PC_Parts.pdb
+C:\Users\Daniel\Desktop\NMIT Past Study Files\NMIT 2020\Semester 1\SDV701\Assessment 2 Stage 2\PC_Parts\PC_Parts\bin\Debug\PC_Parts.exe.config
+C:\Users\Daniel\Desktop\NMIT Past Study Files\NMIT 2020\Semester 1\SDV701\Assessment 2 Stage 2\PC_Parts\PC_Parts\bin\Debug\PC_Parts.exe
+C:\Users\Daniel\Desktop\NMIT Past Study Files\NMIT 2020\Semester 1\SDV701\Assessment 2 Stage 2\PC_Parts\PC_Parts\bin\Debug\PC_Parts.pdb
+C:\Users\Daniel\Desktop\NMIT Past Study Files\NMIT 2020\Semester 1\SDV701\Assessment 2 Stage 2\PC_Parts\PC_Parts\bin\Debug\EntityFramework.dll
+C:\Users\Daniel\Desktop\NMIT Past Study Files\NMIT 2020\Semester 1\SDV701\Assessment 2 Stage 2\PC_Parts\PC_Parts\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Daniel\Desktop\NMIT Past Study Files\NMIT 2020\Semester 1\SDV701\Assessment 2 Stage 2\PC_Parts\PC_Parts\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Daniel\Desktop\NMIT Past Study Files\NMIT 2020\Semester 1\SDV701\Assessment 2 Stage 2\PC_Parts\PC_Parts\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Daniel\Desktop\NMIT Past Study Files\NMIT 2020\Semester 1\SDV701\Assessment 2 Stage 2\PC_Parts\PC_Parts\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\Daniel\Desktop\NMIT Past Study Files\NMIT 2020\Semester 1\SDV701\Assessment 2 Stage 2\PC_Parts\PC_Parts\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Daniel\Desktop\NMIT Past Study Files\NMIT 2020\Semester 1\SDV701\Assessment 2 Stage 2\PC_Parts\PC_Parts\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Daniel\Desktop\NMIT Past Study Files\NMIT 2020\Semester 1\SDV701\Assessment 2 Stage 2\PC_Parts\PC_Parts\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Daniel\Desktop\NMIT Past Study Files\NMIT 2020\Semester 1\SDV701\Assessment 2 Stage 2\PC_Parts\PC_Parts\bin\Debug\Microsoft.Owin.dll
+C:\Users\Daniel\Desktop\NMIT Past Study Files\NMIT 2020\Semester 1\SDV701\Assessment 2 Stage 2\PC_Parts\PC_Parts\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Daniel\Desktop\NMIT Past Study Files\NMIT 2020\Semester 1\SDV701\Assessment 2 Stage 2\PC_Parts\PC_Parts\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Daniel\Desktop\NMIT Past Study Files\NMIT 2020\Semester 1\SDV701\Assessment 2 Stage 2\PC_Parts\PC_Parts\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\Daniel\Desktop\NMIT Past Study Files\NMIT 2020\Semester 1\SDV701\Assessment 2 Stage 2\PC_Parts\PC_Parts\bin\Debug\Microsoft.Owin.Security.Jwt.dll
+C:\Users\Daniel\Desktop\NMIT Past Study Files\NMIT 2020\Semester 1\SDV701\Assessment 2 Stage 2\PC_Parts\PC_Parts\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Daniel\Desktop\NMIT Past Study Files\NMIT 2020\Semester 1\SDV701\Assessment 2 Stage 2\PC_Parts\PC_Parts\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Daniel\Desktop\NMIT Past Study Files\NMIT 2020\Semester 1\SDV701\Assessment 2 Stage 2\PC_Parts\PC_Parts\bin\Debug\Owin.dll
+C:\Users\Daniel\Desktop\NMIT Past Study Files\NMIT 2020\Semester 1\SDV701\Assessment 2 Stage 2\PC_Parts\PC_Parts\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Daniel\Desktop\NMIT Past Study Files\NMIT 2020\Semester 1\SDV701\Assessment 2 Stage 2\PC_Parts\PC_Parts\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Daniel\Desktop\NMIT Past Study Files\NMIT 2020\Semester 1\SDV701\Assessment 2 Stage 2\PC_Parts\PC_Parts\bin\Debug\System.Web.Cors.dll
+C:\Users\Daniel\Desktop\NMIT Past Study Files\NMIT 2020\Semester 1\SDV701\Assessment 2 Stage 2\PC_Parts\PC_Parts\bin\Debug\System.Web.Http.Cors.dll
+C:\Users\Daniel\Desktop\NMIT Past Study Files\NMIT 2020\Semester 1\SDV701\Assessment 2 Stage 2\PC_Parts\PC_Parts\bin\Debug\System.Web.Http.dll
+C:\Users\Daniel\Desktop\NMIT Past Study Files\NMIT 2020\Semester 1\SDV701\Assessment 2 Stage 2\PC_Parts\PC_Parts\bin\Debug\EntityFramework.xml
+C:\Users\Daniel\Desktop\NMIT Past Study Files\NMIT 2020\Semester 1\SDV701\Assessment 2 Stage 2\PC_Parts\PC_Parts\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Daniel\Desktop\NMIT Past Study Files\NMIT 2020\Semester 1\SDV701\Assessment 2 Stage 2\PC_Parts\PC_Parts\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Daniel\Desktop\NMIT Past Study Files\NMIT 2020\Semester 1\SDV701\Assessment 2 Stage 2\PC_Parts\PC_Parts\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Daniel\Desktop\NMIT Past Study Files\NMIT 2020\Semester 1\SDV701\Assessment 2 Stage 2\PC_Parts\PC_Parts\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\Daniel\Desktop\NMIT Past Study Files\NMIT 2020\Semester 1\SDV701\Assessment 2 Stage 2\PC_Parts\PC_Parts\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\Daniel\Desktop\NMIT Past Study Files\NMIT 2020\Semester 1\SDV701\Assessment 2 Stage 2\PC_Parts\PC_Parts\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\Daniel\Desktop\NMIT Past Study Files\NMIT 2020\Semester 1\SDV701\Assessment 2 Stage 2\PC_Parts\PC_Parts\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Daniel\Desktop\NMIT Past Study Files\NMIT 2020\Semester 1\SDV701\Assessment 2 Stage 2\PC_Parts\PC_Parts\bin\Debug\Microsoft.Owin.xml
+C:\Users\Daniel\Desktop\NMIT Past Study Files\NMIT 2020\Semester 1\SDV701\Assessment 2 Stage 2\PC_Parts\PC_Parts\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Daniel\Desktop\NMIT Past Study Files\NMIT 2020\Semester 1\SDV701\Assessment 2 Stage 2\PC_Parts\PC_Parts\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\Daniel\Desktop\NMIT Past Study Files\NMIT 2020\Semester 1\SDV701\Assessment 2 Stage 2\PC_Parts\PC_Parts\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Daniel\Desktop\NMIT Past Study Files\NMIT 2020\Semester 1\SDV701\Assessment 2 Stage 2\PC_Parts\PC_Parts\bin\Debug\Microsoft.Owin.Security.Jwt.xml
+C:\Users\Daniel\Desktop\NMIT Past Study Files\NMIT 2020\Semester 1\SDV701\Assessment 2 Stage 2\PC_Parts\PC_Parts\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Daniel\Desktop\NMIT Past Study Files\NMIT 2020\Semester 1\SDV701\Assessment 2 Stage 2\PC_Parts\PC_Parts\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Daniel\Desktop\NMIT Past Study Files\NMIT 2020\Semester 1\SDV701\Assessment 2 Stage 2\PC_Parts\PC_Parts\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Daniel\Desktop\NMIT Past Study Files\NMIT 2020\Semester 1\SDV701\Assessment 2 Stage 2\PC_Parts\PC_Parts\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Daniel\Desktop\NMIT Past Study Files\NMIT 2020\Semester 1\SDV701\Assessment 2 Stage 2\PC_Parts\PC_Parts\bin\Debug\System.Web.Http.xml
+C:\Users\Daniel\Desktop\NMIT Past Study Files\NMIT 2020\Semester 1\SDV701\Assessment 2 Stage 2\PC_Parts\PC_Parts\bin\Debug\System.Web.Http.Cors.xml
+C:\Users\Daniel\Desktop\NMIT Past Study Files\NMIT 2020\Semester 1\SDV701\Assessment 2 Stage 2\PC_Parts\PC_Parts\obj\Debug\PC_Parts.Properties.Resources.resources
+C:\Users\Daniel\Desktop\NMIT Past Study Files\NMIT 2020\Semester 1\SDV701\Assessment 2 Stage 2\PC_Parts\PC_Parts\obj\Debug\PC_Parts_Admin_Client.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Desktop\NMIT Past Study Files\NMIT 2020\Semester 1\SDV701\Assessment 2 Stage 2\PC_Parts\PC_Parts\obj\Debug\PC_Parts_Admin_Client.csproj.CopyComplete

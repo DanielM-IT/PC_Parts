@@ -13,7 +13,7 @@ namespace PC_Parts_Selfhost
         // Gets all category names from the database and passes them into a list of strings.
         public List<string> GetCategoryNames()
         {
-            DataTable lcResult = clsDbConnection.GetDataTable("SELECT categoryName FROM Category ORDER BY categoryName DESC", null);
+            DataTable lcResult = clsDbConnection.GetDataTable("SELECT CategoryName FROM Category ORDER BY CategoryName", null);
             List<string> lcNames = new List<string>();
             foreach (DataRow dr in lcResult.Rows)
                 lcNames.Add((string)dr[0]);
@@ -46,7 +46,7 @@ namespace PC_Parts_Selfhost
         {
             Dictionary<string, object> dictionary = new Dictionary<string, object>(1); 
             dictionary.Add("CategoryName", CategoryName);
-            DataTable lcResult = clsDbConnection.GetDataTable("SELECT * FROM Product WHERE CategoryName = @CategoryName", dictionary);
+            DataTable lcResult = clsDbConnection.GetDataTable("SELECT * FROM Product WHERE CategoryName = @CategoryName ORDER BY ProductName", dictionary);
             List<clsProduct> lcProducts = new List<clsProduct>();
             foreach (DataRow dr in lcResult.Rows)
                 lcProducts.Add(getProductRow(dr));
@@ -223,7 +223,7 @@ namespace PC_Parts_Selfhost
         {
             Dictionary<string, object> dictionary = new Dictionary<string, object>(1);
             dictionary.Add("Status", Status);
-            DataTable lcResult = clsDbConnection.GetDataTable("SELECT OrderID FROM CustomerOrder WHERE Status = @Status", dictionary);
+            DataTable lcResult = clsDbConnection.GetDataTable("SELECT OrderID FROM CustomerOrder WHERE Status = @Status Order By OrderID", dictionary);
             List<int> lcNames = new List<int>();
             foreach (DataRow dr in lcResult.Rows)
                 lcNames.Add((int)dr[0]);

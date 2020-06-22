@@ -1,0 +1,296 @@
+C:\Users\Daniel\Desktop\PC_Parts\PC_Parts_Customer_Client\bin\x86\Debug\Microsoft.Toolkit.Uwp.UI.Controls.DataGrid\Microsoft.Toolkit.Uwp.UI.Controls.DataGrid.xr.xml
+C:\Users\Daniel\Desktop\PC_Parts\PC_Parts_Customer_Client\bin\x86\Debug\App.xbf
+C:\Users\Daniel\Desktop\PC_Parts\PC_Parts_Customer_Client\bin\x86\Debug\pgCategory.xbf
+C:\Users\Daniel\Desktop\PC_Parts\PC_Parts_Customer_Client\bin\x86\Debug\pgMain.xbf
+C:\Users\Daniel\Desktop\PC_Parts\PC_Parts_Customer_Client\bin\x86\Debug\pgProduct.xbf
+C:\Users\Daniel\Desktop\PC_Parts\PC_Parts_Customer_Client\bin\x86\Debug\ucNewProduct.xbf
+C:\Users\Daniel\Desktop\PC_Parts\PC_Parts_Customer_Client\bin\x86\Debug\ucUsedProduct.xbf
+C:\Users\Daniel\Desktop\PC_Parts\PC_Parts_Customer_Client\bin\x86\Debug\PC_Parts_Customer_Client.xr.xml
+C:\Users\Daniel\Desktop\PC_Parts\PC_Parts_Customer_Client\bin\x86\Debug\PC_Parts_Customer_Client.exe
+C:\Users\Daniel\Desktop\PC_Parts\PC_Parts_Customer_Client\bin\x86\Debug\PC_Parts_Customer_Client.pdb
+C:\Users\Daniel\Desktop\PC_Parts\PC_Parts_Customer_Client\bin\x86\Debug\resources.pri
+C:\Users\Daniel\Desktop\PC_Parts\PC_Parts_Customer_Client\bin\x86\Debug\AppxManifest.xml
+C:\Users\Daniel\Desktop\PC_Parts\PC_Parts_Customer_Client\bin\x86\Debug\Core\AppxManifest.xml
+C:\Users\Daniel\Desktop\PC_Parts\PC_Parts_Customer_Client\bin\x86\Debug\Core\PC_Parts_Customer_Client.exe
+C:\Users\Daniel\Desktop\PC_Parts\PC_Parts_Customer_Client\bin\x86\Debug\PC_Parts_Customer_Client.build.appxrecipe
+C:\Users\Daniel\Desktop\PC_Parts\PC_Parts_Customer_Client\bin\x86\Debug\Microsoft.Toolkit.Uwp.UI.Controls.DataGrid.dll
+C:\Users\Daniel\Desktop\PC_Parts\PC_Parts_Customer_Client\bin\x86\Debug\Microsoft.Toolkit.Uwp.UI.Controls.DataGrid.pdb
+C:\Users\Daniel\Desktop\PC_Parts\PC_Parts_Customer_Client\bin\x86\Debug\Newtonsoft.Json.dll
+C:\Users\Daniel\Desktop\PC_Parts\PC_Parts_Customer_Client\bin\x86\Debug\System.Runtime.dll
+C:\Users\Daniel\Desktop\PC_Parts\PC_Parts_Customer_Client\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\Daniel\Desktop\PC_Parts\PC_Parts_Customer_Client\obj\x86\Debug\App.g.i.cs
+C:\Users\Daniel\Desktop\PC_Parts\PC_Parts_Customer_Client\obj\x86\Debug\App.g.cs
+C:\Users\Daniel\Desktop\PC_Parts\PC_Parts_Customer_Client\obj\x86\Debug\pgCategory.g.i.cs
+C:\Users\Daniel\Desktop\PC_Parts\PC_Parts_Customer_Client\obj\x86\Debug\pgCategory.g.cs
+C:\Users\Daniel\Desktop\PC_Parts\PC_Parts_Customer_Client\obj\x86\Debug\pgMain.g.i.cs
+C:\Users\Daniel\Desktop\PC_Parts\PC_Parts_Customer_Client\obj\x86\Debug\pgMain.g.cs
+C:\Users\Daniel\Desktop\PC_Parts\PC_Parts_Customer_Client\obj\x86\Debug\pgProduct.g.i.cs
+C:\Users\Daniel\Desktop\PC_Parts\PC_Parts_Customer_Client\obj\x86\Debug\pgProduct.g.cs
+C:\Users\Daniel\Desktop\PC_Parts\PC_Parts_Customer_Client\obj\x86\Debug\ucNewProduct.g.i.cs
+C:\Users\Daniel\Desktop\PC_Parts\PC_Parts_Customer_Client\obj\x86\Debug\ucNewProduct.g.cs
+C:\Users\Daniel\Desktop\PC_Parts\PC_Parts_Customer_Client\obj\x86\Debug\ucUsedProduct.g.i.cs
+C:\Users\Daniel\Desktop\PC_Parts\PC_Parts_Customer_Client\obj\x86\Debug\ucUsedProduct.g.cs
+C:\Users\Daniel\Desktop\PC_Parts\PC_Parts_Customer_Client\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\Daniel\Desktop\PC_Parts\PC_Parts_Customer_Client\obj\x86\Debug\App.xaml
+C:\Users\Daniel\Desktop\PC_Parts\PC_Parts_Customer_Client\obj\x86\Debug\pgCategory.xaml
+C:\Users\Daniel\Desktop\PC_Parts\PC_Parts_Customer_Client\obj\x86\Debug\pgMain.xaml
+C:\Users\Daniel\Desktop\PC_Parts\PC_Parts_Customer_Client\obj\x86\Debug\pgProduct.xaml
+C:\Users\Daniel\Desktop\PC_Parts\PC_Parts_Customer_Client\obj\x86\Debug\ucNewProduct.xaml
+C:\Users\Daniel\Desktop\PC_Parts\PC_Parts_Customer_Client\obj\x86\Debug\ucUsedProduct.xaml
+C:\Users\Daniel\Desktop\PC_Parts\PC_Parts_Customer_Client\obj\x86\Debug\App.xbf
+C:\Users\Daniel\Desktop\PC_Parts\PC_Parts_Customer_Client\obj\x86\Debug\pgCategory.xbf
+C:\Users\Daniel\Desktop\PC_Parts\PC_Parts_Customer_Client\obj\x86\Debug\pgMain.xbf
+C:\Users\Daniel\Desktop\PC_Parts\PC_Parts_Customer_Client\obj\x86\Debug\pgProduct.xbf
+C:\Users\Daniel\Desktop\PC_Parts\PC_Parts_Customer_Client\obj\x86\Debug\ucNewProduct.xbf
+C:\Users\Daniel\Desktop\PC_Parts\PC_Parts_Customer_Client\obj\x86\Debug\ucUsedProduct.xbf
+C:\Users\Daniel\Desktop\PC_Parts\PC_Parts_Customer_Client\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\Daniel\Desktop\PC_Parts\PC_Parts_Customer_Client\obj\x86\Debug\PC_Parts_Customer_Client.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Desktop\PC_Parts\PC_Parts_Customer_Client\obj\x86\Debug\PC_Parts_Customer_Client.csproj.CopyComplete
+C:\Users\Daniel\Desktop\PC_Parts\PC_Parts_Customer_Client\obj\x86\Debug\Microsoft.Toolkit.Uwp.UI.Controls.DataGrid.pri.xml
+C:\Users\Daniel\Desktop\PC_Parts\PC_Parts_Customer_Client\obj\x86\Debug\PC_Parts_Customer_Client.exe
+C:\Users\Daniel\Desktop\PC_Parts\PC_Parts_Customer_Client\obj\x86\Debug\PC_Parts_Customer_Client.pdb
+C:\Users\Daniel\Desktop\PC_Parts\PC_Parts_Customer_Client\obj\x86\Debug\ResourceHandlingTask.state
+C:\Users\Daniel\Desktop\PC_Parts\PC_Parts_Customer_Client\obj\x86\Debug\Microsoft.Toolkit.Uwp.UI.Controls.DataGrid\en-US\Microsoft.Toolkit.Uwp.UI.Controls.Properties.Resources.resw
+C:\Users\Daniel\Desktop\PC_Parts\PC_Parts_Customer_Client\obj\x86\Debug\priconfig.xml
+C:\Users\Daniel\Desktop\PC_Parts\PC_Parts_Customer_Client\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\Daniel\Desktop\PC_Parts\PC_Parts_Customer_Client\obj\x86\Debug\unfiltered.layout.resfiles
+C:\Users\Daniel\Desktop\PC_Parts\PC_Parts_Customer_Client\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\Daniel\Desktop\PC_Parts\PC_Parts_Customer_Client\obj\x86\Debug\filtered.layout.resfiles
+C:\Users\Daniel\Desktop\PC_Parts\PC_Parts_Customer_Client\obj\x86\Debug\filtered.layout.resfiles.intermediate
+C:\Users\Daniel\Desktop\PC_Parts\PC_Parts_Customer_Client\obj\x86\Debug\excluded.layout.resfiles
+C:\Users\Daniel\Desktop\PC_Parts\PC_Parts_Customer_Client\obj\x86\Debug\excluded.layout.resfiles.intermediate
+C:\Users\Daniel\Desktop\PC_Parts\PC_Parts_Customer_Client\obj\x86\Debug\resources.resfiles
+C:\Users\Daniel\Desktop\PC_Parts\PC_Parts_Customer_Client\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\Daniel\Desktop\PC_Parts\PC_Parts_Customer_Client\obj\x86\Debug\pri.resfiles
+C:\Users\Daniel\Desktop\PC_Parts\PC_Parts_Customer_Client\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\Daniel\Desktop\PC_Parts\PC_Parts_Customer_Client\obj\x86\Debug\qualifiers.txt
+C:\Users\Daniel\Desktop\PC_Parts\PC_Parts_Customer_Client\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\Daniel\Desktop\PC_Parts\PC_Parts_Customer_Client\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Daniel\Desktop\PC_Parts\PC_Parts_Customer_Client\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\Daniel\Desktop\PC_Parts\PC_Parts_Customer_Client\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_636884842160000000.json
+C:\Users\Daniel\Desktop\PC_Parts\PC_Parts_Customer_Client\obj\x86\Debug\PC_Parts_Customer_Client.csprojAssemblyReference.cache
+C:\Users\Daniel\Desktop\PC_Parts\PC_Parts_Customer_Client\bin\x86\Debug\pgOrder.xbf
+C:\Users\Daniel\Desktop\PC_Parts\PC_Parts_Customer_Client\obj\x86\Debug\pgOrder.g.i.cs
+C:\Users\Daniel\Desktop\PC_Parts\PC_Parts_Customer_Client\obj\x86\Debug\pgOrder.g.cs
+C:\Users\Daniel\Desktop\PC_Parts\PC_Parts_Customer_Client\obj\x86\Debug\pgOrder.xaml
+C:\Users\Daniel\Desktop\PC_Parts\PC_Parts_Customer_Client\obj\x86\Debug\pgOrder.xbf
+C:\Users\Daniel\Desktop\PC_Parts\PC_Parts_Customer_Client\bin\x86\Debug\pgOrderConfirmation.xbf
+C:\Users\Daniel\Desktop\PC_Parts\PC_Parts_Customer_Client\obj\x86\Debug\pgOrderConfirmation.g.i.cs
+C:\Users\Daniel\Desktop\PC_Parts\PC_Parts_Customer_Client\obj\x86\Debug\pgOrderConfirmation.g.cs
+C:\Users\Daniel\Desktop\PC_Parts\PC_Parts_Customer_Client\obj\x86\Debug\pgOrderConfirmation.xaml
+C:\Users\Daniel\Desktop\PC_Parts\PC_Parts_Customer_Client\obj\x86\Debug\pgOrderConfirmation.xbf
+C:\Users\Daniel\Desktop\PC_Parts\PC_Parts_Customer_Client\bin\x86\Debug\Callisto\themes\Generic.xbf
+C:\Users\Daniel\Desktop\PC_Parts\PC_Parts_Customer_Client\bin\x86\Debug\AutoGenerateForm.Uwp\AutoGenerateForm.Uwp.xr.xml
+C:\Users\Daniel\Desktop\PC_Parts\PC_Parts_Customer_Client\bin\x86\Debug\WinRTXamlToolkit\WinRTXamlToolkit.xr.xml
+C:\Users\Daniel\Desktop\PC_Parts\PC_Parts_Customer_Client\bin\x86\Debug\WinRTXamlToolkit\Properties\WinRTXamlToolkit.rd.xml
+C:\Users\Daniel\Desktop\PC_Parts\PC_Parts_Customer_Client\bin\x86\Debug\Callisto.dll
+C:\Users\Daniel\Desktop\PC_Parts\PC_Parts_Customer_Client\bin\x86\Debug\Microsoft.Xaml.Interactions.dll
+C:\Users\Daniel\Desktop\PC_Parts\PC_Parts_Customer_Client\bin\x86\Debug\Microsoft.Xaml.Interactions.pdb
+C:\Users\Daniel\Desktop\PC_Parts\PC_Parts_Customer_Client\bin\x86\Debug\Microsoft.Xaml.Interactivity.dll
+C:\Users\Daniel\Desktop\PC_Parts\PC_Parts_Customer_Client\bin\x86\Debug\Microsoft.Xaml.Interactivity.pdb
+C:\Users\Daniel\Desktop\PC_Parts\PC_Parts_Customer_Client\bin\x86\Debug\AutoGenerateForm.Attributes.dll
+C:\Users\Daniel\Desktop\PC_Parts\PC_Parts_Customer_Client\bin\x86\Debug\AutoGenerateForm.Helpers.dll
+C:\Users\Daniel\Desktop\PC_Parts\PC_Parts_Customer_Client\bin\x86\Debug\AutoGenerateForm.Uwp.dll
+C:\Users\Daniel\Desktop\PC_Parts\PC_Parts_Customer_Client\bin\x86\Debug\WinRTXamlToolkit.dll
+C:\Users\Daniel\Desktop\PC_Parts\PC_Parts_Customer_Client\obj\x86\Debug\Callisto.pri.xml
+C:\Users\Daniel\Desktop\PC_Parts\PC_Parts_Customer_Client\obj\x86\Debug\Microsoft.Xaml.Interactions.pri.xml
+C:\Users\Daniel\Desktop\PC_Parts\PC_Parts_Customer_Client\obj\x86\Debug\Microsoft.Xaml.Interactivity.pri.xml
+C:\Users\Daniel\Desktop\PC_Parts\PC_Parts_Customer_Client\obj\x86\Debug\AutoGenerateForm.Uwp.pri.xml
+C:\Users\Daniel\Desktop\PC_Parts\PC_Parts_Customer_Client\obj\x86\Debug\WinRTXamlToolkit.pri.xml
+C:\PC_Parts\PC_Parts_Customer_Client\bin\x86\Debug\Callisto\themes\Generic.xbf
+C:\PC_Parts\PC_Parts_Customer_Client\bin\x86\Debug\Microsoft.Toolkit.Uwp.UI.Controls.DataGrid\Microsoft.Toolkit.Uwp.UI.Controls.DataGrid.xr.xml
+C:\PC_Parts\PC_Parts_Customer_Client\bin\x86\Debug\AutoGenerateForm.Uwp\AutoGenerateForm.Uwp.xr.xml
+C:\PC_Parts\PC_Parts_Customer_Client\bin\x86\Debug\WinRTXamlToolkit\WinRTXamlToolkit.xr.xml
+C:\PC_Parts\PC_Parts_Customer_Client\bin\x86\Debug\WinRTXamlToolkit\Properties\WinRTXamlToolkit.rd.xml
+C:\PC_Parts\PC_Parts_Customer_Client\bin\x86\Debug\App.xbf
+C:\PC_Parts\PC_Parts_Customer_Client\bin\x86\Debug\pgCategory.xbf
+C:\PC_Parts\PC_Parts_Customer_Client\bin\x86\Debug\pgMain.xbf
+C:\PC_Parts\PC_Parts_Customer_Client\bin\x86\Debug\pgOrder.xbf
+C:\PC_Parts\PC_Parts_Customer_Client\bin\x86\Debug\pgOrderConfirmation.xbf
+C:\PC_Parts\PC_Parts_Customer_Client\bin\x86\Debug\pgProduct.xbf
+C:\PC_Parts\PC_Parts_Customer_Client\bin\x86\Debug\ucNewProduct.xbf
+C:\PC_Parts\PC_Parts_Customer_Client\bin\x86\Debug\ucUsedProduct.xbf
+C:\PC_Parts\PC_Parts_Customer_Client\bin\x86\Debug\PC_Parts_Customer_Client.xr.xml
+C:\PC_Parts\PC_Parts_Customer_Client\bin\x86\Debug\PC_Parts_Customer_Client.exe
+C:\PC_Parts\PC_Parts_Customer_Client\bin\x86\Debug\PC_Parts_Customer_Client.pdb
+C:\PC_Parts\PC_Parts_Customer_Client\bin\x86\Debug\resources.pri
+C:\PC_Parts\PC_Parts_Customer_Client\bin\x86\Debug\AppxManifest.xml
+C:\PC_Parts\PC_Parts_Customer_Client\bin\x86\Debug\Core\AppxManifest.xml
+C:\PC_Parts\PC_Parts_Customer_Client\bin\x86\Debug\Core\PC_Parts_Customer_Client.exe
+C:\PC_Parts\PC_Parts_Customer_Client\bin\x86\Debug\PC_Parts_Customer_Client.build.appxrecipe
+C:\PC_Parts\PC_Parts_Customer_Client\bin\x86\Debug\Callisto.dll
+C:\PC_Parts\PC_Parts_Customer_Client\bin\x86\Debug\Microsoft.Toolkit.Uwp.UI.Controls.DataGrid.dll
+C:\PC_Parts\PC_Parts_Customer_Client\bin\x86\Debug\Microsoft.Toolkit.Uwp.UI.Controls.DataGrid.pdb
+C:\PC_Parts\PC_Parts_Customer_Client\bin\x86\Debug\Microsoft.Xaml.Interactions.dll
+C:\PC_Parts\PC_Parts_Customer_Client\bin\x86\Debug\Microsoft.Xaml.Interactions.pdb
+C:\PC_Parts\PC_Parts_Customer_Client\bin\x86\Debug\Microsoft.Xaml.Interactivity.dll
+C:\PC_Parts\PC_Parts_Customer_Client\bin\x86\Debug\Microsoft.Xaml.Interactivity.pdb
+C:\PC_Parts\PC_Parts_Customer_Client\bin\x86\Debug\Newtonsoft.Json.dll
+C:\PC_Parts\PC_Parts_Customer_Client\bin\x86\Debug\System.Runtime.dll
+C:\PC_Parts\PC_Parts_Customer_Client\bin\x86\Debug\AutoGenerateForm.Attributes.dll
+C:\PC_Parts\PC_Parts_Customer_Client\bin\x86\Debug\AutoGenerateForm.Helpers.dll
+C:\PC_Parts\PC_Parts_Customer_Client\bin\x86\Debug\AutoGenerateForm.Uwp.dll
+C:\PC_Parts\PC_Parts_Customer_Client\bin\x86\Debug\WinRTXamlToolkit.dll
+C:\PC_Parts\PC_Parts_Customer_Client\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\PC_Parts\PC_Parts_Customer_Client\obj\x86\Debug\App.g.i.cs
+C:\PC_Parts\PC_Parts_Customer_Client\obj\x86\Debug\App.g.cs
+C:\PC_Parts\PC_Parts_Customer_Client\obj\x86\Debug\pgCategory.g.i.cs
+C:\PC_Parts\PC_Parts_Customer_Client\obj\x86\Debug\pgCategory.g.cs
+C:\PC_Parts\PC_Parts_Customer_Client\obj\x86\Debug\pgMain.g.i.cs
+C:\PC_Parts\PC_Parts_Customer_Client\obj\x86\Debug\pgMain.g.cs
+C:\PC_Parts\PC_Parts_Customer_Client\obj\x86\Debug\pgOrder.g.i.cs
+C:\PC_Parts\PC_Parts_Customer_Client\obj\x86\Debug\pgOrder.g.cs
+C:\PC_Parts\PC_Parts_Customer_Client\obj\x86\Debug\pgOrderConfirmation.g.i.cs
+C:\PC_Parts\PC_Parts_Customer_Client\obj\x86\Debug\pgOrderConfirmation.g.cs
+C:\PC_Parts\PC_Parts_Customer_Client\obj\x86\Debug\pgProduct.g.i.cs
+C:\PC_Parts\PC_Parts_Customer_Client\obj\x86\Debug\pgProduct.g.cs
+C:\PC_Parts\PC_Parts_Customer_Client\obj\x86\Debug\ucNewProduct.g.i.cs
+C:\PC_Parts\PC_Parts_Customer_Client\obj\x86\Debug\ucNewProduct.g.cs
+C:\PC_Parts\PC_Parts_Customer_Client\obj\x86\Debug\ucUsedProduct.g.i.cs
+C:\PC_Parts\PC_Parts_Customer_Client\obj\x86\Debug\ucUsedProduct.g.cs
+C:\PC_Parts\PC_Parts_Customer_Client\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\PC_Parts\PC_Parts_Customer_Client\obj\x86\Debug\App.xaml
+C:\PC_Parts\PC_Parts_Customer_Client\obj\x86\Debug\pgCategory.xaml
+C:\PC_Parts\PC_Parts_Customer_Client\obj\x86\Debug\pgMain.xaml
+C:\PC_Parts\PC_Parts_Customer_Client\obj\x86\Debug\pgOrder.xaml
+C:\PC_Parts\PC_Parts_Customer_Client\obj\x86\Debug\pgOrderConfirmation.xaml
+C:\PC_Parts\PC_Parts_Customer_Client\obj\x86\Debug\pgProduct.xaml
+C:\PC_Parts\PC_Parts_Customer_Client\obj\x86\Debug\ucNewProduct.xaml
+C:\PC_Parts\PC_Parts_Customer_Client\obj\x86\Debug\ucUsedProduct.xaml
+C:\PC_Parts\PC_Parts_Customer_Client\obj\x86\Debug\App.xbf
+C:\PC_Parts\PC_Parts_Customer_Client\obj\x86\Debug\pgCategory.xbf
+C:\PC_Parts\PC_Parts_Customer_Client\obj\x86\Debug\pgMain.xbf
+C:\PC_Parts\PC_Parts_Customer_Client\obj\x86\Debug\pgOrder.xbf
+C:\PC_Parts\PC_Parts_Customer_Client\obj\x86\Debug\pgOrderConfirmation.xbf
+C:\PC_Parts\PC_Parts_Customer_Client\obj\x86\Debug\pgProduct.xbf
+C:\PC_Parts\PC_Parts_Customer_Client\obj\x86\Debug\ucNewProduct.xbf
+C:\PC_Parts\PC_Parts_Customer_Client\obj\x86\Debug\ucUsedProduct.xbf
+C:\PC_Parts\PC_Parts_Customer_Client\obj\x86\Debug\XamlSaveStateFile.xml
+C:\PC_Parts\PC_Parts_Customer_Client\obj\x86\Debug\PC_Parts_Customer_Client.csproj.CopyComplete
+C:\PC_Parts\PC_Parts_Customer_Client\obj\x86\Debug\Callisto.pri.xml
+C:\PC_Parts\PC_Parts_Customer_Client\obj\x86\Debug\Microsoft.Toolkit.Uwp.UI.Controls.DataGrid.pri.xml
+C:\PC_Parts\PC_Parts_Customer_Client\obj\x86\Debug\Microsoft.Xaml.Interactions.pri.xml
+C:\PC_Parts\PC_Parts_Customer_Client\obj\x86\Debug\Microsoft.Xaml.Interactivity.pri.xml
+C:\PC_Parts\PC_Parts_Customer_Client\obj\x86\Debug\AutoGenerateForm.Uwp.pri.xml
+C:\PC_Parts\PC_Parts_Customer_Client\obj\x86\Debug\WinRTXamlToolkit.pri.xml
+C:\PC_Parts\PC_Parts_Customer_Client\obj\x86\Debug\PC_Parts_Customer_Client.exe
+C:\PC_Parts\PC_Parts_Customer_Client\obj\x86\Debug\PC_Parts_Customer_Client.pdb
+C:\PC_Parts\PC_Parts_Customer_Client\obj\x86\Debug\ResourceHandlingTask.state
+C:\PC_Parts\PC_Parts_Customer_Client\obj\x86\Debug\Microsoft.Toolkit.Uwp.UI.Controls.DataGrid\en-US\Microsoft.Toolkit.Uwp.UI.Controls.Properties.Resources.resw
+C:\PC_Parts\PC_Parts_Customer_Client\obj\x86\Debug\priconfig.xml
+C:\PC_Parts\PC_Parts_Customer_Client\obj\x86\Debug\priconfig.xml.intermediate
+C:\PC_Parts\PC_Parts_Customer_Client\obj\x86\Debug\unfiltered.layout.resfiles
+C:\PC_Parts\PC_Parts_Customer_Client\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+C:\PC_Parts\PC_Parts_Customer_Client\obj\x86\Debug\filtered.layout.resfiles
+C:\PC_Parts\PC_Parts_Customer_Client\obj\x86\Debug\filtered.layout.resfiles.intermediate
+C:\PC_Parts\PC_Parts_Customer_Client\obj\x86\Debug\excluded.layout.resfiles
+C:\PC_Parts\PC_Parts_Customer_Client\obj\x86\Debug\excluded.layout.resfiles.intermediate
+C:\PC_Parts\PC_Parts_Customer_Client\obj\x86\Debug\resources.resfiles
+C:\PC_Parts\PC_Parts_Customer_Client\obj\x86\Debug\resources.resfiles.intermediate
+C:\PC_Parts\PC_Parts_Customer_Client\obj\x86\Debug\pri.resfiles
+C:\PC_Parts\PC_Parts_Customer_Client\obj\x86\Debug\pri.resfiles.intermediate
+C:\PC_Parts\PC_Parts_Customer_Client\obj\x86\Debug\qualifiers.txt
+C:\PC_Parts\PC_Parts_Customer_Client\obj\x86\Debug\qualifiers.txt.intermediate
+C:\PC_Parts\PC_Parts_Customer_Client\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\PC_Parts\PC_Parts_Customer_Client\obj\x86\Debug\ProjectArchitectures.txt
+C:\PC_Parts\PC_Parts_Customer_Client\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_636884842160000000.json
+C:\PC_Parts\PC_Parts_Customer_Client\obj\x86\Debug\PC_Parts_Customer_Client.csprojAssemblyReference.cache
+C:\Users\Daniel\Desktop\NMIT Past Study Files\NMIT 2020\Semester 1\SDV701\Assessment 2 Stage 2\PC_Parts\PC_Parts_Customer_Client\bin\x86\Debug\Callisto\themes\Generic.xbf
+C:\Users\Daniel\Desktop\NMIT Past Study Files\NMIT 2020\Semester 1\SDV701\Assessment 2 Stage 2\PC_Parts\PC_Parts_Customer_Client\bin\x86\Debug\Microsoft.Toolkit.Uwp.UI.Controls.DataGrid\Microsoft.Toolkit.Uwp.UI.Controls.DataGrid.xr.xml
+C:\Users\Daniel\Desktop\NMIT Past Study Files\NMIT 2020\Semester 1\SDV701\Assessment 2 Stage 2\PC_Parts\PC_Parts_Customer_Client\bin\x86\Debug\AutoGenerateForm.Uwp\AutoGenerateForm.Uwp.xr.xml
+C:\Users\Daniel\Desktop\NMIT Past Study Files\NMIT 2020\Semester 1\SDV701\Assessment 2 Stage 2\PC_Parts\PC_Parts_Customer_Client\bin\x86\Debug\WinRTXamlToolkit\WinRTXamlToolkit.xr.xml
+C:\Users\Daniel\Desktop\NMIT Past Study Files\NMIT 2020\Semester 1\SDV701\Assessment 2 Stage 2\PC_Parts\PC_Parts_Customer_Client\bin\x86\Debug\WinRTXamlToolkit\Properties\WinRTXamlToolkit.rd.xml
+C:\Users\Daniel\Desktop\NMIT Past Study Files\NMIT 2020\Semester 1\SDV701\Assessment 2 Stage 2\PC_Parts\PC_Parts_Customer_Client\bin\x86\Debug\App.xbf
+C:\Users\Daniel\Desktop\NMIT Past Study Files\NMIT 2020\Semester 1\SDV701\Assessment 2 Stage 2\PC_Parts\PC_Parts_Customer_Client\bin\x86\Debug\pgCategory.xbf
+C:\Users\Daniel\Desktop\NMIT Past Study Files\NMIT 2020\Semester 1\SDV701\Assessment 2 Stage 2\PC_Parts\PC_Parts_Customer_Client\bin\x86\Debug\pgMain.xbf
+C:\Users\Daniel\Desktop\NMIT Past Study Files\NMIT 2020\Semester 1\SDV701\Assessment 2 Stage 2\PC_Parts\PC_Parts_Customer_Client\bin\x86\Debug\pgOrder.xbf
+C:\Users\Daniel\Desktop\NMIT Past Study Files\NMIT 2020\Semester 1\SDV701\Assessment 2 Stage 2\PC_Parts\PC_Parts_Customer_Client\bin\x86\Debug\pgOrderConfirmation.xbf
+C:\Users\Daniel\Desktop\NMIT Past Study Files\NMIT 2020\Semester 1\SDV701\Assessment 2 Stage 2\PC_Parts\PC_Parts_Customer_Client\bin\x86\Debug\pgProduct.xbf
+C:\Users\Daniel\Desktop\NMIT Past Study Files\NMIT 2020\Semester 1\SDV701\Assessment 2 Stage 2\PC_Parts\PC_Parts_Customer_Client\bin\x86\Debug\ucNewProduct.xbf
+C:\Users\Daniel\Desktop\NMIT Past Study Files\NMIT 2020\Semester 1\SDV701\Assessment 2 Stage 2\PC_Parts\PC_Parts_Customer_Client\bin\x86\Debug\ucUsedProduct.xbf
+C:\Users\Daniel\Desktop\NMIT Past Study Files\NMIT 2020\Semester 1\SDV701\Assessment 2 Stage 2\PC_Parts\PC_Parts_Customer_Client\bin\x86\Debug\PC_Parts_Customer_Client.xr.xml
+C:\Users\Daniel\Desktop\NMIT Past Study Files\NMIT 2020\Semester 1\SDV701\Assessment 2 Stage 2\PC_Parts\PC_Parts_Customer_Client\bin\x86\Debug\PC_Parts_Customer_Client.exe
+C:\Users\Daniel\Desktop\NMIT Past Study Files\NMIT 2020\Semester 1\SDV701\Assessment 2 Stage 2\PC_Parts\PC_Parts_Customer_Client\bin\x86\Debug\PC_Parts_Customer_Client.pdb
+C:\Users\Daniel\Desktop\NMIT Past Study Files\NMIT 2020\Semester 1\SDV701\Assessment 2 Stage 2\PC_Parts\PC_Parts_Customer_Client\bin\x86\Debug\resources.pri
+C:\Users\Daniel\Desktop\NMIT Past Study Files\NMIT 2020\Semester 1\SDV701\Assessment 2 Stage 2\PC_Parts\PC_Parts_Customer_Client\bin\x86\Debug\AppxManifest.xml
+C:\Users\Daniel\Desktop\NMIT Past Study Files\NMIT 2020\Semester 1\SDV701\Assessment 2 Stage 2\PC_Parts\PC_Parts_Customer_Client\bin\x86\Debug\Core\AppxManifest.xml
+C:\Users\Daniel\Desktop\NMIT Past Study Files\NMIT 2020\Semester 1\SDV701\Assessment 2 Stage 2\PC_Parts\PC_Parts_Customer_Client\bin\x86\Debug\Core\PC_Parts_Customer_Client.exe
+C:\Users\Daniel\Desktop\NMIT Past Study Files\NMIT 2020\Semester 1\SDV701\Assessment 2 Stage 2\PC_Parts\PC_Parts_Customer_Client\bin\x86\Debug\PC_Parts_Customer_Client.build.appxrecipe
+C:\Users\Daniel\Desktop\NMIT Past Study Files\NMIT 2020\Semester 1\SDV701\Assessment 2 Stage 2\PC_Parts\PC_Parts_Customer_Client\bin\x86\Debug\Callisto.dll
+C:\Users\Daniel\Desktop\NMIT Past Study Files\NMIT 2020\Semester 1\SDV701\Assessment 2 Stage 2\PC_Parts\PC_Parts_Customer_Client\bin\x86\Debug\Microsoft.Toolkit.Uwp.UI.Controls.DataGrid.dll
+C:\Users\Daniel\Desktop\NMIT Past Study Files\NMIT 2020\Semester 1\SDV701\Assessment 2 Stage 2\PC_Parts\PC_Parts_Customer_Client\bin\x86\Debug\Microsoft.Toolkit.Uwp.UI.Controls.DataGrid.pdb
+C:\Users\Daniel\Desktop\NMIT Past Study Files\NMIT 2020\Semester 1\SDV701\Assessment 2 Stage 2\PC_Parts\PC_Parts_Customer_Client\bin\x86\Debug\Microsoft.Xaml.Interactions.dll
+C:\Users\Daniel\Desktop\NMIT Past Study Files\NMIT 2020\Semester 1\SDV701\Assessment 2 Stage 2\PC_Parts\PC_Parts_Customer_Client\bin\x86\Debug\Microsoft.Xaml.Interactions.pdb
+C:\Users\Daniel\Desktop\NMIT Past Study Files\NMIT 2020\Semester 1\SDV701\Assessment 2 Stage 2\PC_Parts\PC_Parts_Customer_Client\bin\x86\Debug\Microsoft.Xaml.Interactivity.dll
+C:\Users\Daniel\Desktop\NMIT Past Study Files\NMIT 2020\Semester 1\SDV701\Assessment 2 Stage 2\PC_Parts\PC_Parts_Customer_Client\bin\x86\Debug\Microsoft.Xaml.Interactivity.pdb
+C:\Users\Daniel\Desktop\NMIT Past Study Files\NMIT 2020\Semester 1\SDV701\Assessment 2 Stage 2\PC_Parts\PC_Parts_Customer_Client\bin\x86\Debug\Newtonsoft.Json.dll
+C:\Users\Daniel\Desktop\NMIT Past Study Files\NMIT 2020\Semester 1\SDV701\Assessment 2 Stage 2\PC_Parts\PC_Parts_Customer_Client\bin\x86\Debug\System.Runtime.dll
+C:\Users\Daniel\Desktop\NMIT Past Study Files\NMIT 2020\Semester 1\SDV701\Assessment 2 Stage 2\PC_Parts\PC_Parts_Customer_Client\bin\x86\Debug\AutoGenerateForm.Attributes.dll
+C:\Users\Daniel\Desktop\NMIT Past Study Files\NMIT 2020\Semester 1\SDV701\Assessment 2 Stage 2\PC_Parts\PC_Parts_Customer_Client\bin\x86\Debug\AutoGenerateForm.Helpers.dll
+C:\Users\Daniel\Desktop\NMIT Past Study Files\NMIT 2020\Semester 1\SDV701\Assessment 2 Stage 2\PC_Parts\PC_Parts_Customer_Client\bin\x86\Debug\AutoGenerateForm.Uwp.dll
+C:\Users\Daniel\Desktop\NMIT Past Study Files\NMIT 2020\Semester 1\SDV701\Assessment 2 Stage 2\PC_Parts\PC_Parts_Customer_Client\bin\x86\Debug\WinRTXamlToolkit.dll
+C:\Users\Daniel\Desktop\NMIT Past Study Files\NMIT 2020\Semester 1\SDV701\Assessment 2 Stage 2\PC_Parts\PC_Parts_Customer_Client\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\Daniel\Desktop\NMIT Past Study Files\NMIT 2020\Semester 1\SDV701\Assessment 2 Stage 2\PC_Parts\PC_Parts_Customer_Client\obj\x86\Debug\PC_Parts_Customer_Client.csprojAssemblyReference.cache
+C:\Users\Daniel\Desktop\NMIT Past Study Files\NMIT 2020\Semester 1\SDV701\Assessment 2 Stage 2\PC_Parts\PC_Parts_Customer_Client\obj\x86\Debug\App.g.i.cs
+C:\Users\Daniel\Desktop\NMIT Past Study Files\NMIT 2020\Semester 1\SDV701\Assessment 2 Stage 2\PC_Parts\PC_Parts_Customer_Client\obj\x86\Debug\App.g.cs
+C:\Users\Daniel\Desktop\NMIT Past Study Files\NMIT 2020\Semester 1\SDV701\Assessment 2 Stage 2\PC_Parts\PC_Parts_Customer_Client\obj\x86\Debug\pgCategory.g.i.cs
+C:\Users\Daniel\Desktop\NMIT Past Study Files\NMIT 2020\Semester 1\SDV701\Assessment 2 Stage 2\PC_Parts\PC_Parts_Customer_Client\obj\x86\Debug\pgCategory.g.cs
+C:\Users\Daniel\Desktop\NMIT Past Study Files\NMIT 2020\Semester 1\SDV701\Assessment 2 Stage 2\PC_Parts\PC_Parts_Customer_Client\obj\x86\Debug\pgMain.g.i.cs
+C:\Users\Daniel\Desktop\NMIT Past Study Files\NMIT 2020\Semester 1\SDV701\Assessment 2 Stage 2\PC_Parts\PC_Parts_Customer_Client\obj\x86\Debug\pgMain.g.cs
+C:\Users\Daniel\Desktop\NMIT Past Study Files\NMIT 2020\Semester 1\SDV701\Assessment 2 Stage 2\PC_Parts\PC_Parts_Customer_Client\obj\x86\Debug\pgOrder.g.i.cs
+C:\Users\Daniel\Desktop\NMIT Past Study Files\NMIT 2020\Semester 1\SDV701\Assessment 2 Stage 2\PC_Parts\PC_Parts_Customer_Client\obj\x86\Debug\pgOrder.g.cs
+C:\Users\Daniel\Desktop\NMIT Past Study Files\NMIT 2020\Semester 1\SDV701\Assessment 2 Stage 2\PC_Parts\PC_Parts_Customer_Client\obj\x86\Debug\pgOrderConfirmation.g.i.cs
+C:\Users\Daniel\Desktop\NMIT Past Study Files\NMIT 2020\Semester 1\SDV701\Assessment 2 Stage 2\PC_Parts\PC_Parts_Customer_Client\obj\x86\Debug\pgOrderConfirmation.g.cs
+C:\Users\Daniel\Desktop\NMIT Past Study Files\NMIT 2020\Semester 1\SDV701\Assessment 2 Stage 2\PC_Parts\PC_Parts_Customer_Client\obj\x86\Debug\pgProduct.g.i.cs
+C:\Users\Daniel\Desktop\NMIT Past Study Files\NMIT 2020\Semester 1\SDV701\Assessment 2 Stage 2\PC_Parts\PC_Parts_Customer_Client\obj\x86\Debug\pgProduct.g.cs
+C:\Users\Daniel\Desktop\NMIT Past Study Files\NMIT 2020\Semester 1\SDV701\Assessment 2 Stage 2\PC_Parts\PC_Parts_Customer_Client\obj\x86\Debug\ucNewProduct.g.i.cs
+C:\Users\Daniel\Desktop\NMIT Past Study Files\NMIT 2020\Semester 1\SDV701\Assessment 2 Stage 2\PC_Parts\PC_Parts_Customer_Client\obj\x86\Debug\ucNewProduct.g.cs
+C:\Users\Daniel\Desktop\NMIT Past Study Files\NMIT 2020\Semester 1\SDV701\Assessment 2 Stage 2\PC_Parts\PC_Parts_Customer_Client\obj\x86\Debug\ucUsedProduct.g.i.cs
+C:\Users\Daniel\Desktop\NMIT Past Study Files\NMIT 2020\Semester 1\SDV701\Assessment 2 Stage 2\PC_Parts\PC_Parts_Customer_Client\obj\x86\Debug\ucUsedProduct.g.cs
+C:\Users\Daniel\Desktop\NMIT Past Study Files\NMIT 2020\Semester 1\SDV701\Assessment 2 Stage 2\PC_Parts\PC_Parts_Customer_Client\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\Daniel\Desktop\NMIT Past Study Files\NMIT 2020\Semester 1\SDV701\Assessment 2 Stage 2\PC_Parts\PC_Parts_Customer_Client\obj\x86\Debug\App.xaml
+C:\Users\Daniel\Desktop\NMIT Past Study Files\NMIT 2020\Semester 1\SDV701\Assessment 2 Stage 2\PC_Parts\PC_Parts_Customer_Client\obj\x86\Debug\pgCategory.xaml
+C:\Users\Daniel\Desktop\NMIT Past Study Files\NMIT 2020\Semester 1\SDV701\Assessment 2 Stage 2\PC_Parts\PC_Parts_Customer_Client\obj\x86\Debug\pgMain.xaml
+C:\Users\Daniel\Desktop\NMIT Past Study Files\NMIT 2020\Semester 1\SDV701\Assessment 2 Stage 2\PC_Parts\PC_Parts_Customer_Client\obj\x86\Debug\pgOrder.xaml
+C:\Users\Daniel\Desktop\NMIT Past Study Files\NMIT 2020\Semester 1\SDV701\Assessment 2 Stage 2\PC_Parts\PC_Parts_Customer_Client\obj\x86\Debug\pgOrderConfirmation.xaml
+C:\Users\Daniel\Desktop\NMIT Past Study Files\NMIT 2020\Semester 1\SDV701\Assessment 2 Stage 2\PC_Parts\PC_Parts_Customer_Client\obj\x86\Debug\pgProduct.xaml
+C:\Users\Daniel\Desktop\NMIT Past Study Files\NMIT 2020\Semester 1\SDV701\Assessment 2 Stage 2\PC_Parts\PC_Parts_Customer_Client\obj\x86\Debug\ucNewProduct.xaml
+C:\Users\Daniel\Desktop\NMIT Past Study Files\NMIT 2020\Semester 1\SDV701\Assessment 2 Stage 2\PC_Parts\PC_Parts_Customer_Client\obj\x86\Debug\ucUsedProduct.xaml
+C:\Users\Daniel\Desktop\NMIT Past Study Files\NMIT 2020\Semester 1\SDV701\Assessment 2 Stage 2\PC_Parts\PC_Parts_Customer_Client\obj\x86\Debug\App.xbf
+C:\Users\Daniel\Desktop\NMIT Past Study Files\NMIT 2020\Semester 1\SDV701\Assessment 2 Stage 2\PC_Parts\PC_Parts_Customer_Client\obj\x86\Debug\pgCategory.xbf
+C:\Users\Daniel\Desktop\NMIT Past Study Files\NMIT 2020\Semester 1\SDV701\Assessment 2 Stage 2\PC_Parts\PC_Parts_Customer_Client\obj\x86\Debug\pgMain.xbf
+C:\Users\Daniel\Desktop\NMIT Past Study Files\NMIT 2020\Semester 1\SDV701\Assessment 2 Stage 2\PC_Parts\PC_Parts_Customer_Client\obj\x86\Debug\pgOrder.xbf
+C:\Users\Daniel\Desktop\NMIT Past Study Files\NMIT 2020\Semester 1\SDV701\Assessment 2 Stage 2\PC_Parts\PC_Parts_Customer_Client\obj\x86\Debug\pgOrderConfirmation.xbf
+C:\Users\Daniel\Desktop\NMIT Past Study Files\NMIT 2020\Semester 1\SDV701\Assessment 2 Stage 2\PC_Parts\PC_Parts_Customer_Client\obj\x86\Debug\pgProduct.xbf
+C:\Users\Daniel\Desktop\NMIT Past Study Files\NMIT 2020\Semester 1\SDV701\Assessment 2 Stage 2\PC_Parts\PC_Parts_Customer_Client\obj\x86\Debug\ucNewProduct.xbf
+C:\Users\Daniel\Desktop\NMIT Past Study Files\NMIT 2020\Semester 1\SDV701\Assessment 2 Stage 2\PC_Parts\PC_Parts_Customer_Client\obj\x86\Debug\ucUsedProduct.xbf
+C:\Users\Daniel\Desktop\NMIT Past Study Files\NMIT 2020\Semester 1\SDV701\Assessment 2 Stage 2\PC_Parts\PC_Parts_Customer_Client\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\Daniel\Desktop\NMIT Past Study Files\NMIT 2020\Semester 1\SDV701\Assessment 2 Stage 2\PC_Parts\PC_Parts_Customer_Client\obj\x86\Debug\PC_Parts_Customer_Client.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Desktop\NMIT Past Study Files\NMIT 2020\Semester 1\SDV701\Assessment 2 Stage 2\PC_Parts\PC_Parts_Customer_Client\obj\x86\Debug\PC_Parts_Customer_Client.csproj.CopyComplete
+C:\Users\Daniel\Desktop\NMIT Past Study Files\NMIT 2020\Semester 1\SDV701\Assessment 2 Stage 2\PC_Parts\PC_Parts_Customer_Client\obj\x86\Debug\Callisto.pri.xml
+C:\Users\Daniel\Desktop\NMIT Past Study Files\NMIT 2020\Semester 1\SDV701\Assessment 2 Stage 2\PC_Parts\PC_Parts_Customer_Client\obj\x86\Debug\Microsoft.Toolkit.Uwp.UI.Controls.DataGrid.pri.xml
+C:\Users\Daniel\Desktop\NMIT Past Study Files\NMIT 2020\Semester 1\SDV701\Assessment 2 Stage 2\PC_Parts\PC_Parts_Customer_Client\obj\x86\Debug\Microsoft.Xaml.Interactions.pri.xml
+C:\Users\Daniel\Desktop\NMIT Past Study Files\NMIT 2020\Semester 1\SDV701\Assessment 2 Stage 2\PC_Parts\PC_Parts_Customer_Client\obj\x86\Debug\Microsoft.Xaml.Interactivity.pri.xml
+C:\Users\Daniel\Desktop\NMIT Past Study Files\NMIT 2020\Semester 1\SDV701\Assessment 2 Stage 2\PC_Parts\PC_Parts_Customer_Client\obj\x86\Debug\AutoGenerateForm.Uwp.pri.xml
+C:\Users\Daniel\Desktop\NMIT Past Study Files\NMIT 2020\Semester 1\SDV701\Assessment 2 Stage 2\PC_Parts\PC_Parts_Customer_Client\obj\x86\Debug\WinRTXamlToolkit.pri.xml
+C:\Users\Daniel\Desktop\NMIT Past Study Files\NMIT 2020\Semester 1\SDV701\Assessment 2 Stage 2\PC_Parts\PC_Parts_Customer_Client\obj\x86\Debug\PC_Parts_Customer_Client.exe
+C:\Users\Daniel\Desktop\NMIT Past Study Files\NMIT 2020\Semester 1\SDV701\Assessment 2 Stage 2\PC_Parts\PC_Parts_Customer_Client\obj\x86\Debug\PC_Parts_Customer_Client.pdb
+C:\Users\Daniel\Desktop\NMIT Past Study Files\NMIT 2020\Semester 1\SDV701\Assessment 2 Stage 2\PC_Parts\PC_Parts_Customer_Client\obj\x86\Debug\ResourceHandlingTask.state
+C:\Users\Daniel\Desktop\NMIT Past Study Files\NMIT 2020\Semester 1\SDV701\Assessment 2 Stage 2\PC_Parts\PC_Parts_Customer_Client\obj\x86\Debug\Microsoft.Toolkit.Uwp.UI.Controls.DataGrid\en-US\Microsoft.Toolkit.Uwp.UI.Controls.Properties.Resources.resw
+C:\Users\Daniel\Desktop\NMIT Past Study Files\NMIT 2020\Semester 1\SDV701\Assessment 2 Stage 2\PC_Parts\PC_Parts_Customer_Client\obj\x86\Debug\priconfig.xml
+C:\Users\Daniel\Desktop\NMIT Past Study Files\NMIT 2020\Semester 1\SDV701\Assessment 2 Stage 2\PC_Parts\PC_Parts_Customer_Client\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\Daniel\Desktop\NMIT Past Study Files\NMIT 2020\Semester 1\SDV701\Assessment 2 Stage 2\PC_Parts\PC_Parts_Customer_Client\obj\x86\Debug\unfiltered.layout.resfiles
+C:\Users\Daniel\Desktop\NMIT Past Study Files\NMIT 2020\Semester 1\SDV701\Assessment 2 Stage 2\PC_Parts\PC_Parts_Customer_Client\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\Daniel\Desktop\NMIT Past Study Files\NMIT 2020\Semester 1\SDV701\Assessment 2 Stage 2\PC_Parts\PC_Parts_Customer_Client\obj\x86\Debug\filtered.layout.resfiles
+C:\Users\Daniel\Desktop\NMIT Past Study Files\NMIT 2020\Semester 1\SDV701\Assessment 2 Stage 2\PC_Parts\PC_Parts_Customer_Client\obj\x86\Debug\filtered.layout.resfiles.intermediate
+C:\Users\Daniel\Desktop\NMIT Past Study Files\NMIT 2020\Semester 1\SDV701\Assessment 2 Stage 2\PC_Parts\PC_Parts_Customer_Client\obj\x86\Debug\excluded.layout.resfiles
+C:\Users\Daniel\Desktop\NMIT Past Study Files\NMIT 2020\Semester 1\SDV701\Assessment 2 Stage 2\PC_Parts\PC_Parts_Customer_Client\obj\x86\Debug\excluded.layout.resfiles.intermediate
+C:\Users\Daniel\Desktop\NMIT Past Study Files\NMIT 2020\Semester 1\SDV701\Assessment 2 Stage 2\PC_Parts\PC_Parts_Customer_Client\obj\x86\Debug\resources.resfiles
+C:\Users\Daniel\Desktop\NMIT Past Study Files\NMIT 2020\Semester 1\SDV701\Assessment 2 Stage 2\PC_Parts\PC_Parts_Customer_Client\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\Daniel\Desktop\NMIT Past Study Files\NMIT 2020\Semester 1\SDV701\Assessment 2 Stage 2\PC_Parts\PC_Parts_Customer_Client\obj\x86\Debug\pri.resfiles
+C:\Users\Daniel\Desktop\NMIT Past Study Files\NMIT 2020\Semester 1\SDV701\Assessment 2 Stage 2\PC_Parts\PC_Parts_Customer_Client\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\Daniel\Desktop\NMIT Past Study Files\NMIT 2020\Semester 1\SDV701\Assessment 2 Stage 2\PC_Parts\PC_Parts_Customer_Client\obj\x86\Debug\qualifiers.txt
+C:\Users\Daniel\Desktop\NMIT Past Study Files\NMIT 2020\Semester 1\SDV701\Assessment 2 Stage 2\PC_Parts\PC_Parts_Customer_Client\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\Daniel\Desktop\NMIT Past Study Files\NMIT 2020\Semester 1\SDV701\Assessment 2 Stage 2\PC_Parts\PC_Parts_Customer_Client\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Daniel\Desktop\NMIT Past Study Files\NMIT 2020\Semester 1\SDV701\Assessment 2 Stage 2\PC_Parts\PC_Parts_Customer_Client\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\Daniel\Desktop\NMIT Past Study Files\NMIT 2020\Semester 1\SDV701\Assessment 2 Stage 2\PC_Parts\PC_Parts_Customer_Client\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_636884842160000000.json
